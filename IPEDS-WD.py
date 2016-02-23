@@ -1,28 +1,33 @@
 # -*- coding: iso-8859-15 -*-
-import csv, json
+import csv
+import json
 
 with open('wikidata_query_result.json', 'rb') as f:
     data = json.loads(f.read())
     crosswalk = data["props"]["1771"]
-    
+
+
 def getQ(unitid):
     for i in crosswalk:
         if unitid == i[2]:
             return str(i[0])
     return "0"
-    
+
+
 def findDelimiter(string):
     possibilities = ["|", ";", ":", "/", "\\", "„"]
     for p in possibilities:
         if p in string:
             return p
     return "none"
-    
+
+
 def trim(string):
     toOmit = ["formerly", "(former name)", "dba", "DBA", "Formerly"]
     for o in toOmit:
         string.strip(o)
     return string.strip()
+
 
 with open('aliases.csv', 'rb') as csvfile:
     inflowFile = csv.DictReader(csvfile, delimiter=',', quotechar='|')
@@ -40,7 +45,7 @@ with open('aliases.csv', 'rb') as csvfile:
                     aliasList = aliases.split(delimiter)
                 for alias in aliasList:
                     alias = trim(alias)
-                    if alias is not "": 
+                    if alias is not "":
                         secondDelim = findDelimiter(alias)
                         if secondDelim == "none" and len(alias) > 1:
                             alias = alias[0].capitalize() + alias[1:]
@@ -52,7 +57,7 @@ with open('aliases.csv', 'rb') as csvfile:
                                 if len(m) > 1:
                                     m = m[0].capitalize() + m[1:]
                                     print("Q" + qid + "\t" + "Aen" + "\t" + m)
-                
+
 #"S248" + "\t" + "Q6042926")
 
 # at end go through and look at longest strings to manually check

@@ -1,0 +1,2579 @@
+Q5154695	Aen	CCAF
+Q1551044	Aen	AAMU
+Q4748638	Aen	Southern Christian University
+Q4748638	Aen	Regions University
+Q1783148	Aen	UAH
+Q1783148	Aen	University of Alabama Huntsville
+Q758560	Aen	AUM
+Q758560	Aen	Auburn University Montgomery
+Q758560	Aen	Auburn University at Montgomery
+Q758560	Aen	Auburn Montgomery
+Q5087847	Aen	CVCC
+Q5158958	Aen	CCA
+Q5380357	Aen	Enterprise-Ozark Community College
+Q5380357	Aen	Enterprise State Junior College
+Q4571885	Aen	Faulkner
+Q5516461	Aen	GSCC
+Q5516461	Aen	Gadsden State
+Q5516461	Aen	Gadsden Community College
+Q7962771	Aen	WALLACE DOTHAN
+Q7962771	Aen	WCCD
+Q7962897	Aen	Wallace State Community College
+Q7962897	Aen	Wallace State - Hanceville
+Q7962769	Aen	Wallace Community College - Selma
+Q6105653	Aen	Drake State
+Q6105669	Aen	ISTC
+Q6175454	Aen	JDCC
+Q6175594	Aen	Jeff State
+Q6175594	Aen	JSCC
+Q6175594	Aen	Jefferson State
+Q5019761	Aen	Calhoun Community College
+Q6704953	Aen	Lurleen B. Wallace Community College
+Q6704953	Aen	LBW Community College
+Q6704953	Aen	LBWCC
+Q14679337	Aen	Northeast
+Q5591503	Aen	Springhill
+Q5591503	Aen	Springhill College
+Q5591503	Aen	SHC
+Q5591503	Aen	The Hill
+Q5628144	Aen	Trenholm State
+Q1817686	Aen	TROY
+Q7892216	Aen	The Academy
+Q7892216	Aen	America's Sports University
+Q1285252	Aen	UAA
+Q1285262	Aen	UAF
+Q5955303	Aen	Thunderbird
+Q670897	Aen	ASU Tempe
+Q4791459	Aen	AWC
+Q503419	Aen	UA
+Q503419	Aen	U of A
+Q503419	Aen	Arizona
+Q503419	Aen	UofA
+Q503419	Aen	The University of Arizona
+Q503419	Aen	University of Arizona
+Q503419	Aen	University of Az
+Q503419	Aen	AZ
+Q503419	Aen	Univ. of Arizona
+Q503419	Aen	Univ. of Az
+Q503419	Aen	Tucson
+Q503419	Aen	Tucson
+Q5060345	Aen	Pinal County Community College
+Q5139329	Aen	Cochise College
+Q14680335	Aen	Embry Riddle Aeronautical University-Prescott
+Q7894082	Aen	Universal Technical Institute of Phoenix
+Q139901	Aen	NAU
+Q7059526	Aen	NPC
+Q7194574	Aen	Pima County Community College District
+Q7240840	Aen	Prescot College
+Q7240840	Aen	Prescott University
+Q7240840	Aen	Prescott University
+Q7240840	Aen	Prescott
+Q7240840	Aen	PC
+Q7240840	Aen	Prescott Center for Alternative Education
+Q500154	Aen	UALR
+Q500154	Aen	University of Arkansas-Little Rock
+Q500154	Aen	Arkansas Little Rock
+Q941298	Aen	UAMS
+Q1070333	Aen	University of Arkansas
+Q1070333	Aen	Arkansas
+Q2495825	Aen	UAPB
+Q4791875	Aen	ASU-BEEBE
+Q500131	Aen	Arkansas State University-Jonesboro
+Q673111	Aen	ATU
+Q673111	Aen	Tech
+Q673111	Aen	Arkansas Tech
+Q1571390	Aen	UAM
+Q5060434	Aen	CBC
+Q7895070	Aen	UACCB
+Q6840792	Aen	MSCC
+Q7053960	Aen	Northark
+Q7110141	Aen	OBU
+Q7896711	Aen	Ozarks
+Q7895072	Aen	Petit Jean Technical College
+Q7895072	Aen	Petit Jean College
+Q7182919	Aen	PSC
+Q7185889	Aen	Phillips County Community College
+Q7185889	Aen	PCCUA
+Q7569290	Aen	SEARK College
+Q7895071	Aen	UACCH
+Q7566003	Aen	SouthArk
+Q16900342	Aen	SAU Tech
+Q16900342	Aen	SAUT
+Q2495828	Aen	UA Fort Smith
+Q2495828	Aen	UAFS
+Q4671433	Aen	ACCHS
+Q4743139	Aen	ABSW
+Q207460	Aen	American Film Institute
+Q207460	Aen	AFI Conservatory
+Q207460	Aen	AFI
+Q2791079	Aen	American River
+Q2791079	Aen	ARC
+Q2926172	Aen	BI
+Q3444680	Aen	CIIS
+Q161562	Aen	Caltech
+Q161562	Aen	Cal Tech
+Q1026846	Aen	Cal Poly
+Q1026902	Aen	CSU Bakersfield
+Q624564	Aen	CSU Stanislaus
+Q1026909	Aen	CSUDH
+Q1026925	Aen	Cal State Fullerton
+Q1026916	Aen	Cal State East Bay
+Q1026926	Aen	Cal State Long Beach
+Q1026941	Aen	Sacramento State
+Q168756	Aen	UC Berkeley
+Q129421	Aen	UC Davis
+Q868421	Aen	UCI
+Q868421	Aen	UC Irvine
+Q174710	Aen	UCLA
+Q1075148	Aen	UC Riverside
+Q622664	Aen	UCSD
+Q622664	Aen	UC San Diego
+Q1061104	Aen	UCSF
+Q1061104	Aen	UC San Francisco
+Q1061104	Aen	University of California at San Francisco
+Q1061104	Aen	University of California
+Q263064	Aen	UCSB
+Q263064	Aen	UC Santa Barbara
+Q6040956	Aen	Institute of Transpersonal Psychology
+Q5020340	Aen	Main Campus
+Q5020382	Aen	LCB-San Francisco
+Q1026827	Aen	CalArts
+Q1026832	Aen	Cal Maritime
+Q5081831	Aen	CDU
+Q5158998	Aen	Concordia University Irvine
+Q5116581	Aen	CDSP
+Q5143034	Aen	Coleman College
+Q5149653	Aen	Columbia Junior College
+Q5149653	Aen	CC
+Q5165598	Aen	CCC
+Q5175230	Aen	Cosumnes River
+Q5175230	Aen	CRC
+Q5180556	Aen	CHC
+Q5180556	Aen	Crafton
+Q5146883	Aen	Desert Community College District
+Q5270173	Aen	Diablo Valley
+Q5290855	Aen	DUofC
+Q1237670	Aen	The Dominican School
+Q1237670	Aen	DSPT
+Q1237670	Aen	St. Albert's College
+Q1237670	Aen	College of St. Albert the Great
+Q5350875	Aen	ECC
+Q5439587	Aen	Feather River College
+Q5447173	Aen	Fielding
+Q5447173	Aen	Fielding Institute
+Q5447173	Aen	Fielding Graduate Institute
+Q5483015	Aen	FST
+Q5568357	Aen	GCC
+Q5568357	Aen	Glendale College
+Q3113166	Aen	GTU
+Q12236173	Aen	Mudd
+Q5885852	Aen	Holy Names College
+Q14682464	Aen	IVC
+Q6544942	Aen	LIFE Bible College
+Q7714366	Aen	Art Institute of California-San Diego
+Q8214783	Aen	La Verne
+Q6472813	Aen	LCAD
+Q6477941	Aen	LTCC
+Q7569745	Aen	Los Angeles College of Chiropractic
+Q7569745	Aen	College of Acupuncture and Oriental Medicine
+Q12061371	Aen	Harbor College
+Q10863000	Aen	Pierce College
+Q10863000	Aen	LA Pierce College
+Q6682369	Aen	Valley College
+Q6682369	Aen	LA Valley College
+Q7714367	Aen	AiCA-SF
+Q6817140	Aen	Menlo
+Q6818062	Aen	Merced Community College District
+Q6889228	Aen	MJC
+Q1946114	Aen	Monterey Institute
+Q6930336	Aen	Mt. SAC
+Q6930337	Aen	Mt. San Jacinto CCD
+Q6973366	Aen	NHU
+Q7063485	Aen	NDNU
+Q1346110	Aen	Oxy
+Q7108771	Aen	Otis Art Institute
+Q5899317	Aen	Hope
+Q5899317	Aen	HIU
+Q5899317	Aen	College of Arts and Sciences
+Q5899317	Aen	College of Business and Management
+Q5899317	Aen	College of Education
+Q5899317	Aen	Pacific Christian of Ministry and Biblical Studies
+Q5899317	Aen	College of Psychology and Counseling
+Q5899317	Aen	Fullerton
+Q5899317	Aen	Orange County
+Q5899317	Aen	California
+Q3360203	Aen	PUC
+Q630226	Aen	Pacific
+Q630226	Aen	UOP
+Q630226	Aen	University of Pacific
+Q630226	Aen	Pacific University
+Q630226	Aen	U. Pacific
+Q630226	Aen	Univ. of Pacific
+Q630226	Aen	U. of Pacific
+Q7199570	Aen	Pitzer
+Q7199570	Aen	Pfizer
+Q7199570	Aen	PZ
+Q7199570	Aen	PTZ
+Q7199570	Aen	PIT
+Q7208069	Aen	PLNU
+Q7419158	Aen	SAC
+Q7335261	Aen	RHCCD
+Q7335261	Aen	RHC
+Q7396963	Aen	Sacramento City
+Q7396963	Aen	Sac City
+Q7396963	Aen	SCC
+Q262663	Aen	USD
+Q586735	Aen	SFAI
+Q2034815	Aen	SFCM
+Q7414125	Aen	SFTS
+Q17066372	Aen	Delta
+Q17066372	Aen	Delta College
+Q17066372	Aen	San Joaquin
+Q17066372	Aen	San Joaquin Delta
+Q17066372	Aen	San Joaquin Delta Community College District
+Q8013573	Aen	San Jose Christian College
+Q7419214	Aen	SBCC
+Q992830	Aen	SCU
+Q1033692	Aen	SMC
+Q7419896	Aen	SRJC
+Q14684169	Aen	Trinity Law School
+Q7521155	Aen	Simpson College
+Q7401829	Aen	St. Marys College of California
+Q7401829	Aen	St Marys College of California
+Q7555714	Aen	Solano College
+Q7914844	Aen	Vanguard University
+Q7571404	Aen	Southwestern Community College District
+Q7588840	Aen	SJS
+Q7588840	Aen	St John's Seminary
+Q7588840	Aen	Saint John's Seminary
+Q7569707	Aen	Formerly Southern California College of Optometry
+Q1786506	Aen	SCI-Arc
+Q4614	Aen	USC
+Q5382442	Aen	Trinity Life Bible College
+Q7985808	Aen	West LA College
+Q7985808	Aen	West L.A. College
+Q7985808	Aen	West LA
+Q7985808	Aen	West L.A.
+Q7985808	Aen	WLAC
+Q7985808	Aen	WestLA
+Q7989214	Aen	Westminster Seminary California
+Q1468161	Aen	University of Colorado Denver
+Q1468161	Aen	CU Denver
+Q1468161	Aen	UCD
+Q2495841	Aen	UCCS
+Q736674	Aen	U of Colorado
+Q736674	Aen	Univ of Colorado
+Q736674	Aen	University of Colorado
+Q736674	Aen	U of CO
+Q736674	Aen	Univ of CO
+Q736674	Aen	University of CO
+Q736674	Aen	Boulder
+Q736674	Aen	CU
+Q736674	Aen	CU-Boulder
+Q736674	Aen	UCB
+Q736674	Aen	CUB
+Q736674	Aen	Colorado
+Q736674	Aen	Colorado University
+Q736674	Aen	U of Colo
+Q736674	Aen	Univ of Colo
+Q736674	Aen	University of Colo
+Q736674	Aen	Colo
+Q736674	Aen	Buffs
+Q736674	Aen	Buffalos
+Q736674	Aen	Buffaloes
+Q736674	Aen	CU at Boulder
+Q736674	Aen	Golden Buffs
+Q736674	Aen	University of Colorado at Boulder
+Q5148756	Aen	CCU
+Q7714374	Aen	Colorado Institute of Art
+Q5148854	Aen	CNCC
+Q1111367	Aen	Mines
+Q5148968	Aen	Colorado Tech
+Q5148968	Aen	CTU
+Q5154691	Aen	CCD
+Q519427	Aen	DU
+Q5372188	Aen	Emily Griffith
+Q5372188	Aen	EGTC
+Q5372188	Aen	EGOS
+Q5372188	Aen	Opportunity School
+Q5372188	Aen	Opp School
+Q5372188	Aen	Denver Public Schools-Emily Griffith Opportunity School
+Q1438597	Aen	FLC
+Q5505816	Aen	FRCC
+Q6480842	Aen	LCC
+Q1507218	Aen	Colorado Mesa
+Q7058041	Aen	NJC
+Q7058041	Aen	Northeastern
+Q7058041	Aen	Northeastern Jr College
+Q7058041	Aen	NE Jr College
+Q7058041	Aen	Northeastern Colorado
+Q7058041	Aen	Northeastern Jr Co
+Q7058041	Aen	Northeastern Community College
+Q7058041	Aen	Northeast Jr College
+Q7058041	Aen	Northeast
+Q7058041	Aen	NE
+Q7058041	Aen	NEJC
+Q7058041	Aen	NE JC
+Q7058041	Aen	NEJUCO
+Q7058041	Aen	NE JU CO
+Q7058041	Aen	NEJRCO
+Q7058041	Aen	Northeastern Sterling
+Q7058041	Aen	Northeastern JC
+Q7058041	Aen	Sterling Junior College
+Q7058041	Aen	North Eastern
+Q7108531	Aen	Otero JC
+Q7108531	Aen	OJC
+Q7108531	Aen	Otero Jr. College
+Q7193647	Aen	PPCC
+Q649299	Aen	Regis
+Q649299	Aen	Regis College
+Q649299	Aen	RU
+Q649299	Aen	Jesuit
+Q649299	Aen	Jesuit Denver Colorado
+Q649299	Aen	Regis Nursing
+Q649299	Aen	College for Professional Studies
+Q649299	Aen	RHCHP
+Q649299	Aen	Rangers
+Q649299	Aen	Regis U
+Q649299	Aen	Regis in Colorado
+Q649299	Aen	Rueckert-Hartman College for Health Professions
+Q7355881	Aen	RMCAD
+Q1111515	Aen	CSU-Pueblo
+Q4807464	Aen	ACC
+Q4262242	Aen	Briarwood College
+Q1053764	Aen	CCSU
+Q4151520	Aen	Goodwin
+Q1278152	Aen	Eastern
+Q1278152	Aen	ECSU
+Q747053	Aen	UHart
+Q6841896	Aen	MxCC
+Q917899	Aen	UNH
+Q7060299	Aen	NCCC
+Q7060299	Aen	NWCC
+Q7060299	Aen	NWCTC
+Q7060299	Aen	Northwestern Connecticut Community Technical College
+Q7231672	Aen	Porter and Chester Institute
+Q1276963	Aen	SHU
+Q24399	Aen	USJ
+Q1253123	Aen	SCSU
+Q1927705	Aen	Trinity Bantams
+Q1927705	Aen	Trinity College
+Q1552113	Aen	Western
+Q1068072	Aen	UD
+Q5290747	Aen	DHS
+Q5290747	Aen	Pontifical Faculty of the Immaculate Conception
+Q5290747	Aen	College of the Immaculate Conception
+Q432637	Aen	GWU
+Q432637	Aen	GW
+Q333886	Aen	Georgetown
+Q333886	Aen	GU
+Q3539296	Aen	Trinity College
+Q4857614	Aen	BCF
+Q3298457	Aen	Bethune-Cookman
+Q3298457	Aen	Bethune-Cookman College
+Q3298457	Aen	Bethune
+Q3298457	Aen	Cookman
+Q3298457	Aen	BCC
+Q3298457	Aen	B-CC
+Q3298457	Aen	B-CU
+Q3269570	Aen	The Fighting Knights
+Q14685856	Aen	EFSC
+Q556733	Aen	BC
+Q5146660	Aen	CF
+Q5461269	Aen	JUFL
+Q143451	Aen	UCF
+Q5101627	Aen	Chipola
+Q5101627	Aen	CJC
+Q5101627	Aen	Chipola Junior College
+Q5101627	Aen	Chipola Jr. College
+Q5130926	Aen	CCC
+Q5370252	Aen	Embry Riddle Aeronautical University-Daytona Beach
+Q1430048	Aen	FAMU
+Q1430048	Aen	Florida A&M University
+Q1430048	Aen	Florida A&M University
+Q1430048	Aen	Rattlers
+Q1430048	Aen	FAMU Rattlers
+Q429863	Aen	FAU
+Q5461608	Aen	FSCJ
+Q3073226	Aen	Flagler
+Q4686466	Aen	Florida Hospital College
+Q3152650	Aen	Florida Tech
+Q1065809	Aen	FIU
+Q5461600	Aen	Florida Southern
+Q5461600	Aen	FSC
+Q861548	Aen	Florida State
+Q861548	Aen	F.S.U.
+Q861548	Aen	FSU
+Q861548	Aen	F. S. U.
+Q861548	Aen	Fla. State University
+Q861548	Aen	Fla. State
+Q861548	Aen	Fl State University
+Q861548	Aen	Fl State
+Q861548	Aen	FL State University
+Q861548	Aen	FL State
+Q861548	Aen	Seminoles
+Q861548	Aen	Noles
+Q861548	Aen	Florida State Seminoles
+Q861548	Aen	Florida State University Seminoles
+Q861548	Aen	Fl. State
+Q861548	Aen	Fl. State University
+Q861548	Aen	The Florida State University
+Q861548	Aen	Floridia State University
+Q861548	Aen	Florda State University
+Q861548	Aen	Florida State Univerisity
+Q861548	Aen	Flordia State University
+Q861548	Aen	Florida State Unversity
+Q5617466	Aen	GCSC
+Q5763679	Aen	HCC
+Q5968293	Aen	SBC Tampa
+Q935018	Aen	JU
+Q5461388	Aen	FGC
+Q6479473	Aen	LSSC
+Q17063212	Aen	SCF
+Q3027788	Aen	MDC
+Q3027788	Aen	MDCC
+Q3027788	Aen	Miami-Dade Community College
+Q3027788	Aen	Miami Dade
+Q6840716	Aen	Mid-Florida Tech
+Q6840716	Aen	O-TEC Mid Florida Tech
+Q6840716	Aen	O-TEC Mid-Florida Tech
+Q6840716	Aen	Mid-Florida Technical Institute
+Q1473796	Aen	UNF
+Q7060041	Aen	Okaloosa-Walton College
+Q7127976	Aen	Palm Beach Atlantic
+Q7127976	Aen	PBA
+Q7164705	Aen	Pensacola State
+Q7225469	Aen	PSC
+Q7592117	Aen	St. Vincent de Paul Regional Seminary
+Q7592117	Aen	St. Vincent de Paul Regional Seminary
+Q3936030	Aen	Ringling College
+Q2164222	Aen	Rollins
+Q892503	Aen	St. Leo University
+Q892503	Aen	St Leo University
+Q7591484	Aen	SPC
+Q7591484	Aen	Saint Petersburg College
+Q7591484	Aen	St. Petersburg College
+Q7449539	Aen	Seminole State
+Q7588924	Aen	St. John Vianney College Seminary
+Q7588924	Aen	St John Vianney College Seminary
+Q4257876	Aen	St. Johns River Community College
+Q4257876	Aen	SJRCC
+Q4257876	Aen	St Johns River Community College
+Q4257876	Aen	St Johns River State College
+Q4257876	Aen	St. Johns River State College
+Q4257876	Aen	SJRSC
+Q500606	Aen	USF Main Campus
+Q500606	Aen	USF Tampa Campus
+Q500606	Aen	USF Tampa
+Q2323376	Aen	St. Thomas University
+Q2323376	Aen	St Thomas University
+Q2323376	Aen	Saint Thomas University
+Q659255	Aen	University of West Florida
+Q4668762	Aen	ABAC
+Q4793919	Aen	Armstrong
+Q4796885	Aen	AiAtlanta
+Q4816162	Aen	Atlanta Area Tech
+Q4816162	Aen	Atlanta Technical Institute
+Q7208182	Aen	Point U
+Q4816111	Aen	AMSC
+Q4572296	Aen	CAU
+Q14686598	Aen	BSC
+Q14686598	Aen	BC
+Q14686598	Aen	BJC
+Q5146666	Aen	CCGA
+Q5150130	Aen	CSU
+Q5211714	Aen	DSC
+Q16994039	Aen	GHC
+Q864855	Aen	Georgia Tech
+Q5547746	Aen	GSW
+Q5547419	Aen	Georgia College
+Q5585003	Aen	Gordon
+Q5623660	Aen	Gwinnett College of Business
+Q16994651	Aen	GTC
+Q16994651	Aen	Gwinnett Tech
+Q1532470	Aen	KSU
+Q6911272	Aen	MSM
+Q4400868	Aen	Oglethorpe
+Q7427891	Aen	Savannah Tech
+Q1020699	Aen	SCAD
+Q7502154	Aen	Shorter
+Q7571284	Aen	Southwest Georgia Tech
+Q7571284	Aen	Thomas Technical Institute (former name)
+Q7794632	Aen	TU
+Q2508061	Aen	VSU
+Q2508061	Aen	Valdosta State
+Q2508061	Aen	Valdosta State College
+Q14686966	Aen	YHC
+Q14686966	Aen	Young Harris
+Q2150914	Aen	UH at Hilo
+Q2150914	Aen	UHH
+Q2000129	Aen	UH at Manoa
+Q2000129	Aen	UHM
+Q5896667	Aen	Honolulu CC
+Q5896667	Aen	HCC
+Q6366682	Aen	Kapiolani CC
+Q6366682	Aen	KCC
+Q6378632	Aen	Kauai CC
+Q6378632	Aen	KCC
+Q6516572	Aen	Leeward CC
+Q6516572	Aen	LCC
+Q7895485	Aen	UH Maui College
+Q7895485	Aen	Maui College
+Q8035955	Aen	World Medicine Institute
+Q1171185	Aen	UH at West Oahu
+Q1171185	Aen	UHWO
+Q8024795	Aen	Windward CC
+Q8024795	Aen	WCC
+Q891082	Aen	Boise State
+Q5330206	Aen	EITC
+Q1656608	Aen	ISU
+Q1854488	Aen	Idaho
+Q5146733	Aen	C of I
+Q7055690	Aen	NIC
+Q7060132	Aen	Northwest Nazarene University
+Q7060132	Aen	Northwest Nazarene College
+Q7060132	Aen	NNU
+Q7060132	Aen	NNC
+Q7060132	Aen	Northwest Nazarene University
+Q1029431	Aen	BYU-I
+Q7571420	Aen	SWIC
+Q4920876	Aen	BHC
+Q5053247	Aen	CTU
+Q915866	Aen	CSU
+Q5159004	Aen	Concordia University Chicago
+Q5167142	Aen	LCB Chicago
+Q5180022	Aen	Coyne American Institute
+Q5221341	Aen	DACC
+Q5221341	Aen	Danville Community College
+Q5221341	Aen	Danville Junior College
+Q5146678	Aen	COD
+Q624985	Aen	EIU
+Q624985	Aen	E.I.U.
+Q624985	Aen	Eastern
+Q5360020	Aen	ECC
+Q1540471	Aen	GSU
+Q16842091	Aen	HTC
+Q7367225	Aen	RFUMS
+Q955764	Aen	UIC
+Q955764	Aen	U of I-Chicago
+Q955764	Aen	Illinois-Chicago
+Q955764	Aen	U of I-Medical Center
+Q955764	Aen	University of Illinois-Medical Center
+Q457281	Aen	Illinois
+Q457281	Aen	Illinios
+Q457281	Aen	Ilinois
+Q457281	Aen	Ilinios
+Q457281	Aen	Urbana
+Q457281	Aen	Champaign
+Q457281	Aen	Champagne
+Q457281	Aen	Champaign-Urbana
+Q457281	Aen	Champagne-Urbana
+Q457281	Aen	Urbana-Champaign
+Q457281	Aen	Urbana-Champagne
+Q457281	Aen	University of Illinois at Urbana
+Q457281	Aen	University of Illinois at Champaign
+Q457281	Aen	University of Illinois at Champagne
+Q457281	Aen	University of Illinois at Champaign-Urbana
+Q457281	Aen	University of Illinois at Champagne-Urbana
+Q457281	Aen	UIUC
+Q457281	Aen	UICU
+Q457281	Aen	University of Illinois at UC
+Q457281	Aen	University of Illinois at CU
+Q2159219	Aen	IWU
+Q2159219	Aen	Wesleyan
+Q5999373	Aen	ICC
+Q659706	Aen	IIT
+Q5999827	Aen	IVCC
+Q6246903	Aen	JMLS
+Q6537128	Aen	Lewis College
+Q6537128	Aen	Lewis College of Science and Technology
+Q6537128	Aen	Lewis School of Aeronautics
+Q6537128	Aen	Lewis Holy Name School of Aeronautics
+Q6537128	Aen	Lewis Holy Name Technical School
+Q6537128	Aen	Holy Name Technical School
+Q6550534	Aen	Lincoln Christian College and Seminary
+Q6550804	Aen	LLCC
+Q6550804	Aen	Lincoln Land
+Q6705732	Aen	LSTC
+Q6721774	Aen	MacCormac
+Q6722050	Aen	Mac
+Q6722050	Aen	McMurray
+Q6801562	Aen	MCC
+Q2257594	Aen	Moody Theological Seminary and Graduate School
+Q2257594	Aen	Moody Theological Seminary and Graduate School--Michigan
+Q2257594	Aen	Moody Bible Institute--Spokane
+Q6909049	Aen	MVCC
+Q6909049	Aen	Moraine
+Q6909049	Aen	Moraine Valley
+Q6909049	Aen	Moraine Valley CC
+Q6979247	Aen	National College of Chiropractic
+Q7054728	Aen	NCC
+Q7054728	Aen	North Central
+Q7054728	Aen	Cardinals
+Q7054728	Aen	North Central University
+Q7054728	Aen	University of Naperville
+Q7054728	Aen	Naperville University
+Q16201643	Aen	Northern Seminary
+Q7347822	Aen	Robert Morris College
+Q7347822	Aen	RMC
+Q7347822	Aen	RMU
+Q7355238	Aen	Rockford College
+Q5290854	Aen	Dominican
+Q750639	Aen	Rush University Medical Center
+Q3945126	Aen	St. Xavier University
+Q3945126	Aen	St Xavier University
+Q941855	Aen	UIS
+Q7587180	Aen	St. Augustine College
+Q7587180	Aen	St Augustine College
+Q7896226	Aen	University of St. Mary of the Lake
+Q7896226	Aen	University of St Mary of the Lake
+Q7569478	Aen	SIC
+Q2896792	Aen	Spertus Institute of Jewish Studies
+Q2896792	Aen	Spertus Institute for Jewish Learning and Leadership
+Q7579152	Aen	SRC
+Q7579152	Aen	Spoon
+Q7579152	Aen	Spoon River
+Q7400981	Aen	SACN
+Q7400981	Aen	St. Anthony College of Nursing
+Q7400981	Aen	St Anthony College of Nursing
+Q519349	Aen	SIUE
+Q7568570	Aen	SSC
+Q7568570	Aen	Thornton Junior College
+Q7568570	Aen	Thornton Community College
+Q7975106	Aen	Waubonsee
+Q7975106	Aen	WCC
+Q2983593	Aen	Harper College
+Q805122	Aen	BSU
+Q805122	Aen	Ball U
+Q5024072	Aen	CCSJ
+Q1179599	Aen	DePauw
+Q5326502	Aen	Earlham
+Q4026988	Aen	UE
+Q4026988	Aen	Aces
+Q4026988	Aen	Evansville
+Q4026988	Aen	Purple Aces
+Q5491372	Aen	Franklin College of Indiana
+Q6023669	Aen	IPFW
+Q6023669	Aen	IUPUFW
+Q6023669	Aen	Purdue University-Fort Wayne
+Q6023669	Aen	Purdue-Fort Wayne
+Q6023669	Aen	Purdue Fort Wayne
+Q1433199	Aen	IUPUI
+Q7895554	Aen	UIndy
+Q14688450	Aen	Indiana Tech
+Q14688450	Aen	IIT
+Q666128	Aen	Indiana State
+Q666128	Aen	ISU
+Q11287623	Aen	IU Kokomo
+Q11287623	Aen	IUK
+Q11287623	Aen	IU KO
+Q6023665	Aen	IUSB
+Q6023665	Aen	IU SB
+Q6023665	Aen	IU South Bend
+Q1079140	Aen	IU
+Q1079140	Aen	IUB
+Q1079140	Aen	IU Bloomington
+Q6023619	Aen	IUN
+Q6023619	Aen	IU Northwest
+Q6023656	Aen	IUSE
+Q6023656	Aen	IU SE
+Q6023656	Aen	IU Southeast
+Q6023582	Aen	IUE
+Q6023582	Aen	IU East
+Q6048912	Aen	IBC
+Q6761994	Aen	Marian
+Q6023698	Aen	IWU
+Q4750556	Aen	AMBS
+Q4750556	Aen	Mennonite Biblical Seminary
+Q4750556	Aen	Mennonite Seminary
+Q178848	Aen	Notre Dame
+Q178848	Aen	Fighting Irish
+Q178848	Aen	ND
+Q7260985	Aen	Purdue-Calumet
+Q7260985	Aen	Purdue Calumet
+Q7260985	Aen	PurdueCal
+Q7260985	Aen	PUC
+Q7260998	Aen	Purdue-North Central
+Q7260998	Aen	Purdue-NC
+Q7260998	Aen	Purdue North Central
+Q7260998	Aen	PNC
+Q2166712	Aen	R-HIT
+Q2166712	Aen	RHIT
+Q2166712	Aen	Rose Polytechnic
+Q2166712	Aen	Rose Polytechnic Institute
+Q2166712	Aen	RP
+Q2166712	Aen	RPI
+Q2166712	Aen	Rose-Hulman
+Q2166712	Aen	Rose Hulman
+Q2166712	Aen	Rose-Hulman Institute
+Q2166712	Aen	Rose Hulman Institute
+Q2166712	Aen	Rose
+Q1276602	Aen	University of Saint Francis of Fort Wayne
+Q7401511	Aen	SJC
+Q7401511	Aen	Saint Joe
+Q7401511	Aen	Saint Joseph's
+Q7401849	Aen	St. Mary-of-the-Woods College
+Q7401849	Aen	St Mary-of-the-Woods College
+Q7401824	Aen	St. Mary's College
+Q7401824	Aen	St Mary's College
+Q7401893	Aen	Saint Meinrad Seminary and School of Theology
+Q186047	Aen	Valpo
+Q186047	Aen	VU
+Q4651821	Aen	American Institute of Business
+Q5263500	Aen	DMACC
+Q5305629	Aen	Drake
+Q5366145	Aen	Iowa Valley Community College District
+Q5330227	Aen	Eastern Iowa Community Colleges
+Q5431147	Aen	FBBC&TS
+Q2982991	Aen	Grinnell
+Q6020480	Aen	IHCC
+Q6020480	Aen	Indian Hills College
+Q6020480	Aen	The Hills
+Q1136919	Aen	ISU
+Q182973	Aen	Iowa
+Q182973	Aen	UI
+Q6705538	Aen	Luther Norse
+Q6773873	Aen	Iowa Valley Community College District
+Q6922161	Aen	Mount Mercy College
+Q1781094	Aen	UNI
+Q1781094	Aen	Panthers
+Q1781094	Aen	Northern Iowa
+Q7057914	Aen	NICC
+Q1669453	Aen	St. Ambrose University
+Q1669453	Aen	St Ambrose University
+Q7571405	Aen	SWCC
+Q7898705	Aen	UIU
+Q13428257	Aen	Wartburg Seminary
+Q4731591	Aen	Allen Community College
+Q4849228	Aen	Baker
+Q4849228	Aen	BU
+Q4849228	Aen	Baker U
+Q4865605	Aen	Barton Community College
+Q5002596	Aen	Butler CC
+Q5060545	Aen	Central Christian College
+Q5179758	Aen	Cowley College
+Q1339396	Aen	ESU
+Q1339396	Aen	E-State
+Q5471998	Aen	FSCC
+Q5471998	Aen	Fort Scott JuCo
+Q5471998	Aen	Ft. Scott Community College
+Q5471998	Aen	Fort Scott Junior College
+Q5471998	Aen	Ft. Scott Jr. College
+Q5471998	Aen	Ft. Scott Junior College
+Q5471998	Aen	FSJC
+Q845332	Aen	Haskell
+Q5746274	Aen	Hesston
+Q6268244	Aen	JCCC
+Q52413	Aen	University of Kansas
+Q52413	Aen	Univ of Kansas
+Q52413	Aen	Kansas University
+Q52413	Aen	KU
+Q52413	Aen	Kansas Jayhawks
+Q52413	Aen	Univ of KS
+Q52413	Aen	University of KS
+Q52413	Aen	Kansas Univ
+Q52413	Aen	Kansas U
+Q31249	Aen	K-State
+Q7971450	Aen	Washburn Tech
+Q6749226	Aen	MATC
+Q14689766	Aen	MCC
+Q6840874	Aen	MidAmerica Nazarene College
+Q7060100	Aen	NWKTC
+Q7060100	Aen	Northwest Tech
+Q7109265	Aen	OU
+Q2097334	Aen	Pitt State
+Q7896225	Aen	University of St. Mary
+Q7896225	Aen	University of St Mary
+Q7404621	Aen	Salina Tech
+Q7458174	Aen	Seward County Community College
+Q7611389	Aen	SC
+Q7673530	Aen	Tabor
+Q7673530	Aen	TC
+Q429561	Aen	WSU
+Q4803762	Aen	Dba Asbury College
+Q4805237	Aen	ACTC
+Q1804942	Aen	Centre
+Q1804942	Aen	Centre College of Kentucky
+Q5130680	Aen	Clear Creek Springs
+Q5130680	Aen	Clear Creek Mountain Preachers Bible School
+Q5130680	Aen	Clear Creek Baptist School
+Q5130680	Aen	CCBBC
+Q7896695	Aen	Cumberland College
+Q1278206	Aen	Eastern
+Q1278206	Aen	EKU
+Q6392309	Aen	KMBC
+Q1187623	Aen	KY State
+Q1739079	Aen	KWC
+Q7636397	Aen	Louisville Technical Institute
+Q6689522	Aen	Louisville Seminary
+Q6689522	Aen	Louisville Presbyterian Seminary
+Q5527226	Aen	Northern Kentucky State Vocational Technical School
+Q5527226	Aen	Northern Kentucky Tech
+Q5527226	Aen	Northern Kentucky Technical College
+Q5527226	Aen	Northern Kentucky Health Occupational Center
+Q5527226	Aen	Northern Campbell Tech
+Q5527226	Aen	Northern Kentucky Health Technology Center
+Q2001033	Aen	NKU
+Q7896112	Aen	UPIKE
+Q7587404	Aen	St. Catharine
+Q7587404	Aen	Saint Catharine's
+Q7587404	Aen	St. Catharine's
+Q7587404	Aen	Saint Catherine
+Q7587404	Aen	St. Catherine
+Q7587404	Aen	SCC
+Q7559838	Aen	SCC
+Q7559838	Aen	Somerset Technical College
+Q7559838	Aen	Laurel Technical College
+Q7569355	Aen	Southeast
+Q7569667	Aen	SBTS
+Q7572993	Aen	Spalding
+Q7792539	Aen	TMC
+Q1474105	Aen	WKU
+Q5593620	Aen	GSU
+Q6460011	Aen	LSUHSC
+Q6460011	Aen	LSUHSC-NO
+Q6460011	Aen	LSUMC
+Q6460011	Aen	LSU Medical Center
+Q6460011	Aen	LSU Health Sciences Center
+Q6460011	Aen	LSU Health Sciences Center at New Orleans
+Q13634567	Aen	LSUA
+Q1521725	Aen	Louisiana State University
+Q1521725	Aen	LSU
+Q6689310	Aen	LSU Eunice
+Q6689312	Aen	LSUS
+Q1872239	Aen	LA Tech
+Q634396	Aen	McNeese
+Q1474157	Aen	UNO
+Q11283766	Aen	NOBTS
+Q1552010	Aen	ULM
+Q1552010	Aen	University of Louisiana-Monroe
+Q1552010	Aen	Uni of LA-Monroe
+Q1552010	Aen	University of Louisiana Monroe
+Q1552010	Aen	University of Louisiana at Monroe
+Q2001231	Aen	NSU
+Q2001231	Aen	NSULA
+Q2001231	Aen	Northwestern State University
+Q2001231	Aen	Northwestern
+Q2001231	Aen	NwSU
+Q7571863	Aen	SOWELA
+Q615998	Aen	Southeastern
+Q12002144	Aen	SUNO
+Q116485	Aen	UL Lafayette
+Q810771	Aen	Bates
+Q5061387	Aen	Central Maine Technical College
+Q5061387	Aen	CMCC
+Q5061387	Aen	CMTC
+Q5061387	Aen	CMVTI
+Q5061387	Aen	CM
+Q7895654	Aen	UMA
+Q7895654	Aen	UMA-Bangor
+Q7895654	Aen	University of Maine at Augusta - Bangor
+Q7895656	Aen	UMF
+Q7895655	Aen	UMFK
+Q7895657	Aen	University of Maine-Machias
+Q7895658	Aen	UMPI
+Q3695342	Aen	MECA
+Q3695342	Aen	Meca
+Q3695342	Aen	Portland School of Art
+Q7401512	Aen	Saint Joseph's College
+Q7570118	Aen	SMCC
+Q4768125	Aen	AACC
+Q7895109	Aen	UB
+Q5146839	Aen	CSM
+Q5168881	Aen	Coppin
+Q5523877	Aen	Garrett Community College
+Q5523877	Aen	Garrett
+Q5523877	Aen	GCC
+Q5523877	Aen	GC
+Q5638638	Aen	HCC
+Q5897438	Aen	Hood
+Q5919334	Aen	HCC
+Q5919334	Aen	Howard County Community College
+Q5919334	Aen	Howrad Community College
+Q5919334	Aen	HCCC
+Q5919334	Aen	Howard County College
+Q5919334	Aen	Columbia Community College
+Q5919334	Aen	Howard College
+Q14692455	Aen	UMUC
+Q735049	Aen	UMBC
+Q6781349	Aen	MICA
+Q49089	Aen	UMES
+Q6905671	Aen	Montgomery College - Rockville
+Q6905671	Aen	Montgomery College - Takoma Park
+Q6905671	Aen	Montgomery College - Germantown
+Q6923804	Aen	Mount St. Mary's University
+Q6923804	Aen	Mount St. Mary's
+Q6923804	Aen	The Mount
+Q7243998	Aen	PGCC
+Q7243998	Aen	PG
+Q7243998	Aen	PG College
+Q7243998	Aen	Prince Georges Community College
+Q7243998	Aen	Prince Georges College
+Q7243998	Aen	Prince George's
+Q7243998	Aen	PG Comm Coll
+Q7243998	Aen	Largo
+Q7404818	Aen	SU
+Q7404818	Aen	Salisbury
+Q7590249	Aen	St. Mary's or SMCM
+Q559549	Aen	USNA
+Q3695722	Aen	AIC
+Q4754626	Aen	ANTS
+Q4874113	Aen	Bay State Junior College
+Q4874113	Aen	Bay State School of Business
+Q4874113	Aen	The Bay State Academy-Airlines School
+Q4874113	Aen	Secretarial School of Business
+Q693674	Aen	Bentley
+Q4892251	Aen	BCC
+Q3445063	Aen	Boston Architectural Center
+Q49110	Aen	BU
+Q49110	Aen	Boston U
+Q3446076	Aen	BSU
+Q3446076	Aen	Bridgewater State
+Q4968880	Aen	Bristol
+Q4968880	Aen	BCC
+Q3695816	Aen	BHCC
+Q5166726	Aen	Conway School
+Q4982087	Aen	Fitchburg State
+Q4888646	Aen	Franklin Institute of Boston
+Q5586069	Aen	GCTS
+Q5586069	Aen	Gordon-Conwell Seminary
+Q5586069	Aen	Gordon Cromwell Theological Seminary
+Q2620177	Aen	Holy Cross
+Q6674563	Aen	Longy
+Q6674563	Aen	Conservatory at Longy School of Music
+Q6674563	Aen	Longy Conservatory
+Q15142	Aen	UMass Amherst
+Q6784196	Aen	MassBay Community College
+Q6784222	Aen	MCPHS University
+Q49108	Aen	MIT
+Q49108	Aen	M.I.T.
+Q6784362	Aen	William James College
+Q558957	Aen	Merrimack
+Q1140542	Aen	MHC
+Q12062125	Aen	The Mount
+Q12062125	Aen	MWCC
+Q1298529	Aen	Museum School
+Q1298529	Aen	SMFA
+Q14715762	Aen	The New England College of Optometry
+Q14715762	Aen	NECO
+Q14715762	Aen	NEEI
+Q14715762	Aen	New England Eye Institute
+Q386348	Aen	New England Law
+Q386348	Aen	Boston
+Q10336543	Aen	NESOP
+Q7026557	Aen	Nichols
+Q6784220	Aen	MCLA
+Q7007272	Aen	NEiA
+Q7058332	Aen	NECC
+Q5366900	Aen	Elms College
+Q4860034	Aen	Simon's Rock
+Q7581060	Aen	STCC
+Q4118040	Aen	UMass Dartmouth
+Q7988102	Aen	WNE
+Q49166	Aen	Williams
+Q49166	Aen	William College
+Q49166	Aen	William
+Q49166	Aen	Williams College
+Q49166	Aen	Wiliams College
+Q49166	Aen	Wiliams
+Q195046	Aen	WPI
+Q109176	Aen	Andrews
+Q4782984	Aen	AQ
+Q4874178	Aen	Bay College
+Q6837668	Aen	MiSPP
+Q6918618	Aen	C.S. Mott Community College
+Q6918618	Aen	Charles Stewart Mott Community College
+Q5130976	Aen	Cleary College
+Q5158997	Aen	CUAA
+Q5158997	Aen	Concordia University
+Q5158997	Aen	Concordia University
+Q5146598	Aen	CCS
+Q6837719	Aen	MSU College of Law
+Q6837572	Aen	Michigan Institute of Aeronautics
+Q6837572	Aen	MIAT Institute of Technology
+Q6837572	Aen	Michigan Institute of Aviation and Technology
+Q1320232	Aen	Detroit Mercy
+Q5567925	Aen	GOCC
+Q6395480	Aen	GMI Engineering & Management Institute
+Q1472315	Aen	Grand Valley
+Q1472315	Aen	GVSU
+Q1472315	Aen	Grand Valley State
+Q6476901	Aen	LMC
+Q6487450	Aen	LCC
+Q230492	Aen	U of Michigan
+Q230492	Aen	U of M
+Q230492	Aen	Univ of Michigan
+Q230492	Aen	U Michigan Ann Arbor
+Q230492	Aen	University of Michigan Ann Arbor
+Q270222	Aen	MSU
+Q270222	Aen	Spartans
+Q270222	Aen	MI State University
+Q270222	Aen	State
+Q270222	Aen	MI State U
+Q12432	Aen	Michigan Tech
+Q12432	Aen	MTU
+Q12432	Aen	Michigan Tech University
+Q12432	Aen	Mich Tech
+Q12432	Aen	Michigan Technological Univ
+Q12432	Aen	Michigan Tech Univ
+Q7895782	Aen	UMD
+Q7895785	Aen	UM-Flint
+Q7054750	Aen	NCMC
+Q7060343	Aen	NMC
+Q782116	Aen	Oakland
+Q782116	Aen	OU
+Q782116	Aen	O.U.
+Q7087996	Aen	OC Comets
+Q7397231	Aen	SHMS
+Q7587566	Aen	SC4
+Q7571432	Aen	SMC
+Q7575070	Aen	Specs Howard School of Broadcast Arts
+Q7580375	Aen	SAU
+Q7580375	Aen	SAC
+Q7580375	Aen	Spring Arbor College
+Q7580375	Aen	Spring Arber Unviversity
+Q7580375	Aen	Spring Arbor
+Q7580375	Aen	Spring Arber
+Q7580375	Aen	Spring Arbor Collage
+Q17032823	Aen	Western Michigan University Cooley Law School
+Q7963818	Aen	Walsh College
+Q7976138	Aen	WCCCD
+Q349055	Aen	WSU
+Q1546191	Aen	WMU
+Q4720997	Aen	ATCC
+Q4769881	Aen	Anoka-Ramsey Community College-Coon Rapids Campus
+Q4769881	Aen	Anoka-Ramsey Community College-Cambridge Campus
+Q4769881	Aen	ARCC
+Q4769881	Aen	AR
+Q4769881	Aen	Anoka Ramsey
+Q4769881	Aen	Anoka-Ramsey
+Q4769881	Aen	Anoka Ramsey Community College
+Q7060212	Aen	NTC
+Q4897766	Aen	Blc
+Q4897766	Aen	Bethany
+Q4897766	Aen	Bethnay
+Q4897766	Aen	Bethany lutheran
+Q4897766	Aen	Bethnay lutheran
+Q4897766	Aen	Bethany luthern
+Q4897766	Aen	Bethnay luthern
+Q4897766	Aen	Bethany college
+Q4897766	Aen	Bethnay college
+Q4897766	Aen	Bethany collage
+Q4897766	Aen	Bethnay collage
+Q4897766	Aen	Bethany lutheran college
+Q4897766	Aen	Bethnay lutheran college
+Q4897766	Aen	Bethany luthern college
+Q4897766	Aen	Bethnay luthern college
+Q4897766	Aen	Bethel lutheran college
+Q4897766	Aen	Bethany lutheran collage
+Q4897766	Aen	Bethnay lutheran collage
+Q4897766	Aen	Bethany luthern collage
+Q4897766	Aen	Bethnay luthern collage
+Q5159001	Aen	Concordia University
+Q5210002	Aen	DCTC
+Q6776047	Aen	MLC
+Q6477887	Aen	LSC
+Q5313502	Aen	DBU
+Q6868461	Aen	M State
+Q14692660	Aen	IHCC
+Q6705636	Aen	Luther Theological Seminary
+Q6705636	Aen	Luther Northwestern Theological Seminary
+Q6867974	Aen	MCAD
+Q5188827	Aen	Minnesota Bible College
+Q6868559	Aen	MSU Moorhead
+Q6868559	Aen	MSUM
+Q7060296	Aen	University of Northwestern (MN)
+Q7060296	Aen	Northwestern
+Q7073595	Aen	OHCC
+Q5146820	Aen	Saint Benedict
+Q1136874	Aen	St. Cloud State University
+Q1136874	Aen	St. Cloud State
+Q1136874	Aen	SCSU
+Q1164229	Aen	University of Saint Thomas
+Q1164229	Aen	UST
+Q3444427	Aen	St. Kate's
+Q7402041	Aen	Saint Paul College-A Community and Technical College
+Q7893604	Aen	United Theological Seminary
+Q7893604	Aen	UTS
+Q6868459	Aen	Southeast Technical
+Q6868459	Aen	Red Wing
+Q6868459	Aen	Winona Technical College
+Q6868459	Aen	Red Wing Technical College
+Q6868459	Aen	Winona Technical College
+Q5329000	Aen	EMCC
+Q6094155	Aen	ICC
+Q6819301	Aen	MCC
+Q6860022	Aen	Millsaps
+Q1138384	Aen	Ole Miss
+Q3468084	Aen	MUW
+Q6879096	Aen	MC
+Q7060118	Aen	NWCC
+Q7571325	Aen	SMCC
+Q7571325	Aen	SWCC
+Q7571325	Aen	Southwest Community College
+Q7571325	Aen	Southwest
+Q7571325	Aen	South West Mississippi Community College
+Q7571325	Aen	South West Community College
+Q4782996	Aen	Aquinas Institute
+Q4808647	Aen	AGTS
+Q5061424	Aen	CMU - CLAS
+Q7895252	Aen	Central
+Q4118781	Aen	Covenant
+Q4118781	Aen	Covenant Seminary
+Q4118781	Aen	CTS
+Q4118781	Aen	Francis Schaeffer Institute
+Q4118781	Aen	FSI
+Q4118781	Aen	Center for Ministry Leadership
+Q4118781	Aen	CML
+Q5193756	Aen	CULVER
+Q5193756	Aen	C-SC
+Q5468990	Aen	The School of Professional Psychology at Forest Institute
+Q7116527	Aen	OTC
+Q5666316	Aen	Harris-Stowe State College
+Q5666316	Aen	Harris-Stowe
+Q6175404	Aen	JeffCo
+Q4861586	Aen	Barnes-Jewish College of Nursing
+Q4861586	Aen	Barnes-Jewish College of Nursing and Allied Health
+Q4861586	Aen	Jewish Hospital College of Nursing
+Q1126179	Aen	Lincoln University of Missouri
+Q6666966	Aen	Logan University
+Q6843458	Aen	MBTS
+Q6843458	Aen	MBC
+Q6843458	Aen	MBC
+Q16895147	Aen	MAC
+Q6879494	Aen	MBU
+Q6879708	Aen	Missouri Southern
+Q1939221	Aen	Western
+Q1939221	Aen	MWSU
+Q1939221	Aen	MWSC
+Q1939221	Aen	Missouri Western State College
+Q6886673	Aen	MACC
+Q7060123	Aen	Northwest
+Q7615475	Aen	Patricia Stevens College
+Q7293233	Aen	Ranken Technical College
+Q5594651	Aen	Rockhurst
+Q12070051	Aen	Stephens
+Q7054751	Aen	NCMC
+Q6364916	Aen	KCUMB
+Q777403	Aen	WUSTL
+Q777403	Aen	Washington U
+Q777403	Aen	WashU
+Q777403	Aen	Washington
+Q3445253	Aen	WWU
+Q3445253	Aen	William Woods
+Q3445253	Aen	The Woods
+Q4922829	Aen	BCC
+Q5046531	Aen	Carroll Montana
+Q5046531	Aen	CC
+Q5242645	Aen	DCC
+Q5242645	Aen	Dawson College
+Q5242645	Aen	Dawson Junior College
+Q6904332	Aen	MSU Billings
+Q14704552	Aen	Helena College UM.
+Q1861687	Aen	MSU
+Q2302336	Aen	University of Montana
+Q14704764	Aen	RMC
+Q7404844	Aen	SKC
+Q3551358	Aen	Western Montana College of The University of Montana
+Q3551358	Aen	Western Montana College
+Q3551358	Aen	Montana Western
+Q3551358	Aen	Western
+Q3551358	Aen	UM Western
+Q3551358	Aen	WMC
+Q3551358	Aen	WMC-UM
+Q3551358	Aen	UMW
+Q5159000	Aen	Concordia Teachers College
+Q5159000	Aen	Concordia College
+Q5159000	Aen	Concordia University
+Q5591402	Aen	Grace College of the Bible
+Q5591402	Aen	Grace College of Graduate Studies
+Q5591402	Aen	Grace Bible Institute
+Q5591402	Aen	College of Professional and Graduate Studies
+Q5680304	Aen	Hastings College
+Q7895890	Aen	UNK
+Q7895890	Aen	University of Nebraska - Kearney
+Q7895890	Aen	Nebraska - Kearney
+Q7895890	Aen	Nebraska Kearney
+Q6984754	Aen	Nebraska Methodist College
+Q6842463	Aen	MidlandU
+Q2495890	Aen	UNOMAHA
+Q6984746	Aen	NICC
+Q7895888	Aen	UNMC
+Q7057861	Aen	Northeast
+Q7170975	Aen	Peru State
+Q7569319	Aen	Southeast Community College
+Q7569319	Aen	SCC
+Q7976637	Aen	WSC
+Q7988097	Aen	WNCC
+Q5146840	Aen	CSN
+Q2302311	Aen	UNLV
+Q1129091	Aen	SNC
+Q7988100	Aen	WNC
+Q5142055	Aen	Colby-Sawyer
+Q5219048	Aen	DWC
+Q49116	Aen	Dartmouth
+Q5491762	Aen	Franklin Pierce College
+Q14705363	Aen	NEC
+Q3445256	Aen	SNHU
+Q6382897	Aen	KSC
+Q7895907	Aen	UNH Manchester
+Q7205857	Aen	Plymouth
+Q7205857	Aen	Plymouth State
+Q7205857	Aen	PSU
+Q7205857	Aen	Plymout
+Q7205857	Aen	Plimout
+Q7205857	Aen	Plymoth
+Q7205857	Aen	Plimoth
+Q7205857	Aen	Plymot
+Q7205857	Aen	Plimot
+Q7008327	Aen	NHTI
+Q7008327	Aen	New Hampshire Technical Institute
+Q6747337	Aen	New Hampshire State Trade School
+Q6966902	Aen	Nashua Community College
+Q6966902	Aen	NCC
+Q18151044	Aen	New Hampshire Community Technical College - Stratham
+Q5595931	Aen	GSC
+Q2897191	Aen	Berkeley College Woodland Park Campus
+Q2897191	Aen	Berkeley College Paramus Campus
+Q2897191	Aen	Berkeley College Middlesex Campus
+Q2897191	Aen	Berkeley College Newark Campus
+Q2897191	Aen	Berkeley College Dover Campus
+Q2897191	Aen	Berkeley College Clifton Campus
+Q2897191	Aen	Berkeley College Online
+Q4999226	Aen	BCC
+Q17018094	Aen	Divers Academy of the Eastern Seaboard
+Q1393301	Aen	FDU
+Q1799872	Aen	Rowan College of New Jersey
+Q1799872	Aen	Glassboro State College
+Q5928620	Aen	HCCC
+Q6382148	Aen	Kean
+Q3272013	Aen	NJIT
+Q7075970	Aen	OCC
+Q7142508	Aen	PCCC
+Q909696	Aen	Princeton Seminary
+Q7382823	Aen	Rutgers
+Q7382826	Aen	Rutgers
+Q7382780	Aen	Rutgers University-Newark Campus
+Q7382780	Aen	Rutgers University-Newark
+Q3443737	Aen	Saint Peter's
+Q7404080	Aen	Salem County College
+Q7404080	Aen	SCC
+Q7404080	Aen	Salem College
+Q5146821	Aen	CSE
+Q7294576	Aen	RVCC
+Q7294576	Aen	Raritan
+Q657222	Aen	Stevens
+Q7329259	Aen	Stockton State
+Q7329259	Aen	Stockton State College
+Q7329259	Aen	Stockton University
+Q7329259	Aen	Richard Stockton College of New Jersey
+Q7329259	Aen	Richard Stockton College of NJ
+Q7329259	Aen	Stockton College of New Jersey
+Q7329259	Aen	Stockton College of NJ
+Q7329259	Aen	R Stockton College
+Q7329259	Aen	RSC
+Q7329259	Aen	Richard Stockton College
+Q7329259	Aen	SSC
+Q7789245	Aen	Thomas A. Edison State College
+Q7789245	Aen	TESC
+Q7789245	Aen	ESC
+Q7789245	Aen	Edison State College
+Q7789245	Aen	Thomas Edison
+Q7789245	Aen	Edison State
+Q7789245	Aen	Thomas Edison University
+Q7789245	Aen	Edison University
+Q7726772	Aen	TCNJ
+Q7417678	Aen	SBI-Iselin Campus
+Q5061506	Aen	CNM
+Q17012153	Aen	Navajo Tech
+Q10854154	Aen	ENMU
+Q4201524	Aen	Institute of American Indian Arts
+Q7010214	Aen	NMMI
+Q1052208	Aen	New Mexico Tech
+Q1052208	Aen	New Mexico School of Mines
+Q7895917	Aen	UNM - Los Alamos
+Q1190812	Aen	UNM
+Q7010288	Aen	NMSU-Alamogordo
+Q7010292	Aen	NMSU-Carlsbad
+Q16974705	Aen	NMSU-Grants
+Q1353248	Aen	NMSU
+Q7414571	Aen	SJC
+Q7414571	Aen	San Juan Community College
+Q7414571	Aen	SJCC
+Q7419513	Aen	SFCC
+Q7896772	Aen	USW
+Q7571422	Aen	SIPI  S.I.P.I.
+Q7395009	Aen	SUNY Adirondack
+Q4891944	Aen	Berk Trade School
+Q1033335	Aen	Canisius
+Q5055461	Aen	Cayuga Community College
+Q3307468	Aen	MCNY
+Q49088	Aen	Columbia University
+Q5158955	Aen	Concordia-New York
+Q5158955	Aen	Concordia
+Q3567094	Aen	Joan and Sanford I.Weill Medical College of Cornell University
+Q3567094	Aen	Weill Medical College
+Q3567094	Aen	Cornell Medical College
+Q3567094	Aen	Cornell Medical Campus
+Q1143412	Aen	The Culinary Institute of America
+Q1143412	Aen	CIA
+Q1143412	Aen	The Culinary Institute of America at Greystone
+Q1143412	Aen	The Culinary Institute of America at San Antonio
+Q809633	Aen	Baruch
+Q809633	Aen	Baruch College
+Q4946345	Aen	BMCC
+Q4946345	Aen	Borough of Manhattan CC
+Q4946345	Aen	Borough of Manhattan Community College
+Q4974180	Aen	BCC
+Q4974180	Aen	Bronx CC
+Q4974180	Aen	Bronx Community College
+Q371625	Aen	Brooklyn
+Q371625	Aen	Brooklyn College
+Q5146845	Aen	Staten Island
+Q5146845	Aen	CSI
+Q5146845	Aen	College of Staten Island
+Q1093910	Aen	City
+Q1093910	Aen	City College
+Q1093910	Aen	CCNY
+Q1093910	Aen	City College of New York
+Q1024543	Aen	The Graduate Center
+Q1024543	Aen	CUNY Graduate Center
+Q1024543	Aen	The Graduate Center of the City University of New York
+Q5909476	Aen	Hostos
+Q5909476	Aen	Hostos CC
+Q5909476	Aen	Hostos Community College
+Q1446181	Aen	Hunter
+Q1446181	Aen	Hunter College
+Q1700617	Aen	John Jay
+Q1700617	Aen	John Jay College of Criminal Justice
+Q6413125	Aen	KCC
+Q6413125	Aen	KBCC
+Q6413125	Aen	Kingsborough CC
+Q6413125	Aen	Kingsborough Community College
+Q6460759	Aen	LaGuardia
+Q6460759	Aen	LaGuardia CC
+Q6460759	Aen	LaGuardia Community College
+Q1128593	Aen	Lehman
+Q1128593	Aen	Lehman College
+Q6805332	Aen	Medgar
+Q6805332	Aen	MEC
+Q6805332	Aen	Medgar Evers
+Q6805332	Aen	Medgar Evers College
+Q3678632	Aen	City Tech
+Q3678632	Aen	NYCCT
+Q3678632	Aen	New York City College of Technology
+Q3678632	Aen	New York Technical College
+Q1760438	Aen	Queens
+Q1760438	Aen	Queens College
+Q7270850	Aen	QCC
+Q7270850	Aen	Queensborough CC
+Q7270850	Aen	Queensborough Community College
+Q5123486	Aen	Law School
+Q5123486	Aen	CUNY Law School
+Q5123486	Aen	Law School at Queens College
+Q8055406	Aen	York
+Q8055406	Aen	York College
+Q5317480	Aen	DCC
+Q5317480	Aen	Dutchess
+Q3051594	Aen	EC
+Q844999	Aen	FIT
+Q5508483	Aen	FM
+Q1501676	Aen	GTS
+Q5532715	Aen	GCC
+Q6039892	Aen	IAR
+Q503246	Aen	Juilliard
+Q6458722	Aen	LIM
+Q6458722	Aen	LIM College
+Q3296302	Aen	MMC
+Q16951582	Aen	Mercy
+Q6923424	Aen	The Mount
+Q6923424	Aen	Mount Saint Mary College
+Q993267	Aen	Neighborhood Playhouse School
+Q5146784	Aen	CNR
+Q599316	Aen	New School University
+Q599316	Aen	New School for Social Research
+Q599316	Aen	Parsons The New School for Design
+Q13428369	Aen	NYTS
+Q14707079	Aen	The First Institute of Podiatry
+Q14707079	Aen	Long Island College of Podiatry
+Q14707079	Aen	New York College of Podiatry
+Q14707079	Aen	M.J. Lewi College of Podiatry
+Q14707079	Aen	New York College of Podiatric Medicine
+Q7094484	Aen	OCC
+Q7099552	Aen	SUNY Orange
+Q7153646	Aen	Paul Smith's College
+Q1204714	Aen	Pratt Institute
+Q49211	Aen	RPI
+Q2140778	Aen	RIT
+Q2140778	Aen	R.I.T.
+Q7587290	Aen	SBSTM
+Q7587290	Aen	St. Bernard's
+Q93662	Aen	St. Bona
+Q93662	Aen	Bonas
+Q530424	Aen	SFC
+Q7591912	Aen	STAC
+Q7431152	Aen	Schenectady Community College
+Q7431152	Aen	SCCC
+Q7588902	Aen	Fisher
+Q7636401	Aen	SUNY Sullivan
+Q7636401	Aen	SCCC
+Q4723471	Aen	Alfred State College
+Q7603620	Aen	SUNY Canton
+Q7603622	Aen	SUNY Delhi
+Q7603621	Aen	SUNY Cobleskill
+Q5435862	Aen	SUNY College of Technology at Farmingdale
+Q1780816	Aen	University at Albany
+Q863813	Aen	Binghamton University
+Q681025	Aen	University at Buffalo
+Q681025	Aen	UB
+Q681025	Aen	State University of New York at Buffalo
+Q681025	Aen	SUNY Buffalo
+Q681025	Aen	University of Buffalo
+Q969850	Aen	SUNY Stony Brook
+Q969850	Aen	State University of New York at Stony Brook
+Q7603610	Aen	SUNY-ESF
+Q18155496	Aen	SUNYIT
+Q7603617	Aen	State University of New York
+Q4570064	Aen	Buffalo State
+Q7603623	Aen	SUNY Cortland
+Q6149540	Aen	SUNY Geneseo
+Q7603625	Aen	State University of New York at New Paltz
+Q7603627	Aen	SUNY Oswego
+Q7603628	Aen	SUNY-Potsdam
+Q4359408	Aen	Purchase College
+Q14707354	Aen	SUNY Optometry
+Q14707354	Aen	State College of Optometry
+Q14707354	Aen	SUNY State College of Optometry
+Q3246712	Aen	Downstate Medical Center
+Q3246712	Aen	SUNY Health Science Center at Brooklyn
+Q3297997	Aen	SUNY Upstate Medical University
+Q3297997	Aen	Upstate Medical
+Q3297997	Aen	Upstate
+Q3297997	Aen	Upstate Medical Center
+Q3297997	Aen	SUNY Upstate
+Q7669715	Aen	TCI College
+Q7820362	Aen	TC3
+Q7844818	Aen	Trocaire
+Q7844818	Aen	Trocare
+Q7844818	Aen	TC
+Q7844818	Aen	Troc
+Q7395016	Aen	SUNY Ulster
+Q14707270	Aen	SBI NYC
+Q1196251	Aen	Union Theological Seminary
+Q1806541	Aen	USMMA
+Q1806541	Aen	Kings Point
+Q9219	Aen	West Point
+Q7930417	Aen	Villa
+Q1279835	Aen	SVA
+Q7981631	Aen	Wells
+Q7726779	Aen	CW
+Q620640	Aen	ASU
+Q4804932	Aen	A-B Tech
+Q4884322	Aen	BAC
+Q4889676	Aen	Bennett College
+Q4889676	Aen	Bennett
+Q5019139	Aen	CCC&TI
+Q5034785	Aen	CFCC
+Q5051600	Aen	CVCC
+Q5241643	Aen	DCCC
+Q5241643	Aen	Davidson County Community College
+Q1277776	Aen	ECU
+Q5362587	Aen	ECSU
+Q5439067	Aen	FTCC
+Q5470661	Aen	Forsyth Tech
+Q3551409	Aen	GWU
+Q5756235	Aen	HPU
+Q14707985	Aen	ICC
+Q14707985	Aen	Isothermal
+Q14707988	Aen	JSCC
+Q11979088	Aen	JCSU
+Q6659715	Aen	Livingstone College
+Q6818913	Aen	Meredith
+Q6818913	Aen	Meridith
+Q6823850	Aen	Methodist
+Q1476484	Aen	NCAT
+Q1783178	Aen	UNC Charlotte
+Q1321380	Aen	UNCG
+Q7895938	Aen	UNCSA
+Q1132346	Aen	NC State University
+Q1132346	Aen	NC State
+Q1132346	Aen	N C State University
+Q1132346	Aen	N C State
+Q1132346	Aen	NCSU
+Q2092214	Aen	UNCW
+Q2092214	Aen	University of North Carolina at Wilmington
+Q2092214	Aen	UNC Wilmington
+Q2092214	Aen	UNC W
+Q2092214	Aen	University of NC at Wilmington
+Q2092214	Aen	Univ of NC-Wilmington
+Q2092214	Aen	UNC-W
+Q2092214	Aen	University of North Carolina Wilmington
+Q8016704	Aen	Peace
+Q10709746	Aen	UNCP
+Q7270829	Aen	Queens
+Q7355383	Aen	RCC
+Q7416258	Aen	SCC
+Q7416258	Aen	Sandhills
+Q7600091	Aen	Stanly Technical College
+Q7600091	Aen	Stanly Technical Institute
+Q7600091	Aen	Stanley Technical College
+Q7600091	Aen	Stanley Community College
+Q7600091	Aen	Stanley Technical Institute
+Q7600091	Aen	Stanly Tech
+Q7600091	Aen	Stanley Tech
+Q4705810	Aen	ACC
+Q4705810	Aen	Technical Institute of Alamance
+Q4705810	Aen	Alamance College
+Q7970595	Aen	Warren Wilson
+Q7988164	Aen	WPCC
+Q8023021	Aen	WCC
+Q8026034	Aen	WSSU
+Q4918312	Aen	BSC
+Q5273748	Aen	DSU
+Q5470816	Aen	FBCC
+Q6146207	Aen	JC
+Q6146207	Aen	Jimmies
+Q5032498	Aen	Little Hoop Community College
+Q14708393	Aen	UMary
+Q14708393	Aen	Marauders
+Q5017530	Aen	MSU
+Q5209997	Aen	MSU-Bottineau
+Q2000624	Aen	North Dakota State University
+Q7856434	Aen	TMCC
+Q7714373	Aen	AIC College of Design
+Q4796670	Aen	AAC
+Q4813398	Aen	Mount St. Mary's Seminary
+Q4813398	Aen	Mount St. Mary's Seminary of the West
+Q1805202	Aen	Baldwin Wallace
+Q1805202	Aen	Baldwin-Wallace College
+Q1805202	Aen	Baldwin-Wallace
+Q4835563	Aen	BGSU-Firelands
+Q895457	Aen	BGSU
+Q1047060	Aen	Case
+Q1047060	Aen	Case Western
+Q1047060	Aen	CWRU
+Q5061542	Aen	COTC
+Q5120233	Aen	Cincinnati Bible College & Seminary
+Q5120233	Aen	Cincinnati Bible College
+Q5120233	Aen	Cincinnati Bible Seminary
+Q5120311	Aen	Cincinnati State
+Q5120311	Aen	Cincy State
+Q5120311	Aen	CSTCC
+Q5120311	Aen	CTC
+Q7080767	Aen	OCU
+Q4166619	Aen	CIA
+Q5150026	Aen	CCAD
+Q5150126	Aen	Columbus State
+Q5150126	Aen	CSCC
+Q4493503	Aen	Denison
+Q4493503	Aen	DU
+Q4493503	Aen	Dennison University
+Q4493503	Aen	Denison U
+Q4493503	Aen	Dennison U
+Q4493503	Aen	Camp Denidoo
+Q4493503	Aen	Denidoo
+Q4493503	Aen	Big Red
+Q16947040	Aen	Edison Community College
+Q1526305	Aen	HUC-JIR
+Q5698693	Aen	Heidelburg College
+Q5698693	Aen	Hiedelberg College
+Q5698693	Aen	Hiedelburg College
+Q5698693	Aen	Heidleberg College
+Q5698693	Aen	Heidleburg College
+Q5698693	Aen	The 'Berg
+Q5698693	Aen	Heidelberg University
+Q5698693	Aen	Hiedelberg University
+Q5698693	Aen	Heidelburg University
+Q5769100	Aen	Hiram
+Q5875780	Aen	Hocking Technical College
+Q1666981	Aen	JCU
+Q1666981	Aen	John Caroll University
+Q1666981	Aen	John Carrol University
+Q1666981	Aen	John Carol University
+Q1666981	Aen	John Carroll College
+Q6475773	Aen	LEC
+Q6478788	Aen	Lakeland
+Q6478788	Aen	Lakeland College
+Q6478788	Aen	LCC
+Q5147357	Aen	Lawrence Count Joint Vocational School
+Q5147357	Aen	Collins Career Center
+Q6128246	Aen	Rhodes State College
+Q6678731	Aen	LCCC
+Q6818726	Aen	Mercy College
+Q6823846	Aen	MTSO
+Q590643	Aen	Miami of Ohio
+Q6827460	Aen	Miami Valley CTC
+Q6827460	Aen	MVCTC
+Q6827460	Aen	Montgomery County JVS
+Q6924393	Aen	MVNU
+Q5146779	Aen	Mount St. Joseph University
+Q6942807	Aen	Muskingum
+Q7057949	Aen	NEOMED
+Q7080808	Aen	ODU
+Q1683585	Aen	Northern
+Q1683585	Aen	ONU
+Q194266	Aen	OWU
+Q7114740	Aen	Owens State Community College
+Q2898551	Aen	Telshe Yeshiva
+Q7896213	Aen	University of Rio Grande and Rio Grande Community College
+Q5483039	Aen	Franciscan
+Q5483039	Aen	Steubenville
+Q7703070	Aen	Terra Community College
+Q7703070	Aen	Terra Technical College
+Q7885779	Aen	Union
+Q7898978	Aen	Upper Valley Joint Vocational School
+Q7972231	Aen	WSCC
+Q7972231	Aen	Washington State CC
+Q7972231	Aen	Washington State
+Q7972231	Aen	W.S.C.C.
+Q7972231	Aen	Washington State C. C.
+Q7972231	Aen	Washington State C.C.
+Q1109093	Aen	Wooster
+Q1849843	Aen	XU
+Q3369346	Aen	OKWU or OWU
+Q7570171	Aen	SNU
+Q3275637	Aen	UCO
+Q5162061	Aen	CSC
+Q5328060	Aen	ECU
+Q5330346	Aen	Eastern
+Q5330346	Aen	EOSC
+Q3124195	Aen	NSU
+Q7058046	Aen	NEO A&M College
+Q7060359	Aen	NWOSU
+Q7060359	Aen	Northwestern Okla State
+Q7060359	Aen	Northwestern Oklahoma State
+Q7082127	Aen	OC
+Q7082284	Aen	OPSU
+Q7082388	Aen	OSU-Oklahoma City
+Q7082388	Aen	OSU-OKC
+Q7082136	Aen	OKCCC
+Q640652	Aen	University of Oklahoma
+Q640652	Aen	Oklahoma University
+Q640652	Aen	OU
+Q640652	Aen	Oklahoma
+Q3121493	Aen	ORU
+Q13582663	Aen	RSU
+Q13582663	Aen	Rogers University
+Q13582663	Aen	Rogers State College
+Q13582663	Aen	Claremore Junior College
+Q13582663	Aen	Claremore Jr. College
+Q13582663	Aen	CJC
+Q13582663	Aen	Oklahoma Military Academy
+Q13582663	Aen	OMA
+Q13582663	Aen	Eastern University Preparatory School
+Q7367940	Aen	RSC
+Q7367940	Aen	Rose
+Q7367940	Aen	Oscar Rose Junior College
+Q7367940	Aen	ORJC
+Q7896279	Aen	USAO
+Q7571400	Aen	SCU
+Q1811567	Aen	SWOSU
+Q1811567	Aen	Southwestern
+Q1811567	Aen	Southwestern Oklahoma State University Weatherford Campus
+Q1811567	Aen	Southwestern Oklahoma State University Sayre Campus
+Q1848657	Aen	Tulsa University
+Q7988127	Aen	Western
+Q7988127	Aen	WOSC
+Q4929509	Aen	BMCC
+Q5061559	Aen	COCC
+Q1278219	Aen	EOU
+Q4227955	Aen	Lewis and Clark College
+Q6553672	Aen	Linfield
+Q6553672	Aen	LC
+Q6553672	Aen	Lindfield
+Q6553672	Aen	Lynfield
+Q6553672	Aen	Linnfield
+Q6553672	Aen	Lynnfield
+Q6553672	Aen	Linfeld
+Q6553672	Aen	Lindfield College
+Q6553672	Aen	Lynfield College
+Q6553672	Aen	Linnfield College
+Q6553672	Aen	Lynnfield College
+Q6553672	Aen	Linfeld College
+Q6553672	Aen	Linfield University
+Q6553672	Aen	Lindfield University
+Q6553672	Aen	Lynfield University
+Q6553672	Aen	Lynnfield University
+Q6553672	Aen	Linfeld University
+Q6553672	Aen	Linfeild
+Q6553672	Aen	Linfeild College
+Q6553672	Aen	Linfeild University
+Q6553672	Aen	Wildcats
+Q6554657	Aen	LBCC
+Q6147915	Aen	Marylhurst
+Q6147915	Aen	Marlyhurst
+Q6147915	Aen	Maryhurst
+Q6147915	Aen	Marlyhust
+Q6147915	Aen	Marlhurst
+Q6147915	Aen	Marylhust
+Q6935185	Aen	Multnomah Bible College
+Q6935185	Aen	Multnomah Biblical Seminary
+Q6935185	Aen	MBC
+Q6935185	Aen	MBS
+Q6935185	Aen	Multnomah School of the Bible
+Q3878581	Aen	NCU
+Q282097	Aen	OHSU
+Q282097	Aen	Oregon Health and Sciences University
+Q427553	Aen	Oit
+Q427553	Aen	Oti
+Q427553	Aen	Oregon tech
+Q427553	Aen	Oregon inst of tech
+Q7101142	Aen	OCAC
+Q861888	Aen	OSU
+Q766145	Aen	UO
+Q5929270	Aen	Pacific
+Q5929270	Aen	PU
+Q5929270	Aen	Pac U
+Q5929270	Aen	PacificU
+Q5929270	Aen	Pacific University Oregon
+Q1140775	Aen	Reed
+Q7988285	Aen	Western Seminary-San Jose
+Q7988285	Aen	Western Seminary-Sacramento
+Q7988285	Aen	Western Seminary-Portland
+Q1629641	Aen	Western Oregon State College
+Q7896612	Aen	Western States Chiropractic College
+Q7896612	Aen	WSCC
+Q7896612	Aen	Western States
+Q7896612	Aen	Western States Chiropractic College
+Q7896612	Aen	UWS
+Q7896612	Aen	WSCC
+Q4980834	Aen	Bryn Athyn College
+Q5154687	Aen	CCAC
+Q7713455	Aen	The American College
+Q4857600	Aen	BBC
+Q4857600	Aen	BBC&S
+Q4857600	Aen	BBC & S
+Q4857600	Aen	BBS
+Q4857600	Aen	Baptist Bible College of PA
+Q4857600	Aen	Baptist Bible College
+Q4857600	Aen	Baptist Bible Seminary
+Q4857600	Aen	Baptist Bible College & Seminary
+Q4857600	Aen	Baptist Bible College of Pennsylvania
+Q5154696	Aen	CCBC
+Q4785174	Aen	Beaver College
+Q4903268	Aen	Biblical Seminary
+Q5002600	Aen	BC3
+Q190080	Aen	Carnegie Mellon
+Q190080	Aen	CMU
+Q5061634	Aen	Central Penn
+Q5087708	Aen	Chatham
+Q2962876	Aen	CHC
+Q5127034	Aen	Clarion University
+Q3026663	Aen	Penn State
+Q603034	Aen	Drexel
+Q5329446	Aen	East Stroudsburg University
+Q5329446	Aen	East Stroudsburg
+Q5329446	Aen	ESU
+Q5415752	Aen	ETS
+Q664881	Aen	Franklin & Marshall College
+Q664881	Aen	Franklin & Marshall
+Q664881	Aen	Franklin and Marshall
+Q664881	Aen	F&M
+Q664881	Aen	FandM
+Q3139537	Aen	Holy Family
+Q6410887	Aen	Kings College
+Q6410887	Aen	King's
+Q6410887	Aen	Kings
+Q6464919	Aen	LRC
+Q6511142	Aen	LVC
+Q15242208	Aen	LCCC
+Q6665223	Aen	LHU
+Q6665223	Aen	LHUP
+Q6665223	Aen	Lock Haven
+Q6665223	Aen	Lock Haven University of Pennsylvania
+Q6705747	Aen	LTSP
+Q6705747	Aen	Mt. Airy Seminary
+Q6705747	Aen	Lutheran Theological Seminary - Philadelphia
+Q6705747	Aen	Lutheran Seminary - Philadelphia
+Q6705747	Aen	Mt. Airy Lutheran Seminary
+Q6705747	Aen	Luthern Seminary - Philadelphia
+Q6705747	Aen	Lutheran The Philadelphia Seminary
+Q6751699	Aen	Mansfield University
+Q6781819	Aen	Marywood
+Q3323609	Aen	Moore College
+Q4571902	Aen	Moravian College
+Q4571902	Aen	Moravian Theological Seminary
+Q4571902	Aen	Moravian
+Q4571902	Aen	Moravian Seminary
+Q7001944	Aen	Neumann
+Q7057598	Aen	Northampton Community College
+Q7163248	Aen	Penn State
+Q15265897	Aen	Penn State
+Q7163263	Aen	Penn State
+Q7163264	Aen	Penn State
+Q7163296	Aen	Penn State
+Q7163304	Aen	Penn State
+Q7163261	Aen	Penn State
+Q7163226	Aen	Penn State
+Q15265894	Aen	Penn State
+Q7163254	Aen	Penn State
+Q7163236	Aen	Penn State
+Q7163245	Aen	Penn State
+Q7163249	Aen	Penn State
+Q7163256	Aen	Penn State
+Q12065536	Aen	Penn State
+Q7163262	Aen	Penn State
+Q7163224	Aen	Penn State
+Q7163294	Aen	Penn State
+Q7163306	Aen	Penn State
+Q1952033	Aen	PAFA
+Q49117	Aen	Penn
+Q3551662	Aen	PhilaU
+Q1068615	Aen	UArts
+Q5017672	Aen	Cairn
+Q3443159	Aen	USciences
+Q7896145	Aen	Pitt-Bradford
+Q7199301	Aen	PIA
+Q7199301	Aen	PIA Career Services
+Q7199302	Aen	PIMS
+Q7300469	Aen	RACC
+Q7300469	Aen	Reading Area CC
+Q2299327	Aen	RRC
+Q7307539	Aen	RPTS
+Q7498066	Aen	Ship
+Q7498066	Aen	SU
+Q7498066	Aen	Shipensburg
+Q7498066	Aen	Shippenburg
+Q7498066	Aen	Shipenburg
+Q7649352	Aen	Susquahanna
+Q7649352	Aen	Susquehana
+Q7649352	Aen	Sesquehanna
+Q1378320	Aen	Swat
+Q2453575	Aen	Trinity School for Ministry
+Q7912058	Aen	VFCC
+Q7912058	Aen	UVF
+Q7971641	Aen	W&J
+Q7971641	Aen	Washington & Jefferson College
+Q7976817	Aen	Waynesburg College
+Q3443893	Aen	WCU
+Q7989280	Aen	WCCC
+Q8002474	Aen	Wilkes
+Q8055408	Aen	YCP
+Q1517974	Aen	New England Tech
+Q1613236	Aen	RIC
+Q1613236	Aen	RI College
+Q1613236	Aen	R.I. College
+Q5154693	Aen	CCRI
+Q1641788	Aen	URI
+Q49208	Aen	RISD
+Q4754215	Aen	AU
+Q5084184	Aen	CSU
+Q5084184	Aen	CHARLESTON SOUTHERN
+Q7692257	Aen	TCL
+Q5220742	Aen	SWU
+Q1107305	Aen	Coker
+Q5257948	Aen	DTC
+Q5395822	Aen	Erskine College and Seminary
+Q1475020	Aen	Furman
+Q5604737	Aen	GTC
+Q6705748	Aen	Southern Seminary
+Q6705748	Aen	LTSS
+Q6806451	Aen	MUSC
+Q6842555	Aen	MTC
+Q7099794	Aen	OCtech
+Q7240768	Aen	PC
+Q7896316	Aen	University of South Carolina Aiken
+Q7896316	Aen	USC Aiken
+Q7896316	Aen	USCA
+Q7896316	Aen	USCAiken
+Q7896316	Aen	University of South Carolina at Aiken
+Q7896318	Aen	University of South Carolina Beaufort
+Q7896318	Aen	USC Beaufort
+Q7896318	Aen	USCB
+Q7495144	Aen	Sherman College
+Q7495144	Aen	SCSC
+Q7495144	Aen	Sherman College of Chiropractic
+Q7495144	Aen	Sherman
+Q7573934	Aen	SMC
+Q7839709	Aen	TCTC
+Q7839709	Aen	Tricounty Technical College
+Q7839709	Aen	Tri-County Tech
+Q3298397	Aen	Augie
+Q3298397	Aen	Augustana College(SD)
+Q4920974	Aen	BHSU
+Q5210049	Aen	Dakota State
+Q6474813	Aen	LATI
+Q6474813	Aen	Lake Area Tech
+Q7525491	Aen	North American Baptist Seminary
+Q2001088	Aen	NSU
+Q1305521	Aen	USD
+Q14709796	Aen	Western Dakota Tech
+Q4857615	Aen	Baptist College of Health Sciences
+Q4897957	Aen	Bethel
+Q4980029	Aen	William Jennings Bryan College
+Q5109383	Aen	CBU
+Q1143711	Aen	CU
+Q1798619	Aen	David Lipscomb University
+Q1798619	Aen	David Lipscomb
+Q1798619	Aen	Lipscomb
+Q5318575	Aen	DSCC
+Q634669	Aen	ETSU
+Q5373173	Aen	Emmanuel School of Religion
+Q6117378	Aen	JSCC
+Q14710034	Aen	LMU
+Q6815815	Aen	MCA
+Q6841624	Aen	MTSA
+Q6917927	Aen	Motlow
+Q6917927	Aen	Motlow College
+Q6917927	Aen	MSCC
+Q7571358	Aen	Southwest
+Q7700211	Aen	Shelbyville Tech
+Q7458159	Aen	Sewanee
+Q7458159	Aen	The University of the South
+Q7458159	Aen	University of the South
+Q1781384	Aen	UTC
+Q11704313	Aen	UT Martin
+Q7700206	Aen	Tennessee Tech University
+Q7700206	Aen	Tennessee Tech
+Q7700206	Aen	TTU
+Q7700206	Aen	Tenn Tech
+Q7700206	Aen	TN Tech
+Q7700206	Aen	Tech
+Q7057982	Aen	Northeast State Technical Community College
+Q7941057	Aen	VSCC
+Q17033012	Aen	WSCC
+Q4738072	Aen	Alvin
+Q4738072	Aen	ACC
+Q4738072	Aen	Dolphins
+Q4762731	Aen	AC
+Q536709	Aen	Angelo State
+Q4792279	Aen	ABC
+Q4857662	Aen	BMA Seminary
+Q5138254	Aen	CBC
+Q4959024	Aen	BC
+Q7054764	Aen	NCTC
+Q7054764	Aen	North Central Texas Community College District
+Q7054764	Aen	North Central Texas College District
+Q5211272	Aen	DBU
+Q5252909	Aen	DMC
+Q14711364	Aen	A&M-Texarkana
+Q2407584	Aen	A&M Commerce
+Q2407584	Aen	Texas A&M Commerce
+Q5488991	Aen	FPC
+Q6356958	Aen	HSU
+Q7843006	Aen	TVCC
+Q5916417	Aen	HBU
+Q7895505	Aen	UHCL
+Q7895505	Aen	University of Houston - Clear Lake
+Q7895505	Aen	University of Houston
+Q5919327	Aen	Howard County Junior College
+Q1813761	Aen	UIW
+Q1813761	Aen	Incarnate Word
+Q1813761	Aen	Incarnate
+Q1813761	Aen	Incarnate Word
+Q16997157	Aen	IBC
+Q16973332	Aen	Jacksonville Baptist College
+Q16973332	Aen	JBC
+Q6161219	Aen	The Bulldogs
+Q6695115	Aen	LCU
+Q5146887	Aen	COM
+Q7895673	Aen	UMHB
+Q7895673	Aen	MHB
+Q7895673	Aen	Mary Hardin-Baylor
+Q6802425	Aen	McMurray University
+Q6802425	Aen	McMurry College
+Q6802425	Aen	McMurray College
+Q6802425	Aen	McM
+Q6802425	Aen	McM University
+Q6802425	Aen	McM College
+Q6802425	Aen	Mcmurry University
+Q6802425	Aen	Mcmurry College
+Q6802425	Aen	Mcmurray University
+Q6802425	Aen	Mcmurray College
+Q6802425	Aen	McMurry
+Q6802425	Aen	McMurray
+Q6802425	Aen	Mcmurry
+Q6802425	Aen	Mcmurray
+Q1932075	Aen	MSU
+Q4117087	Aen	North Harris Montgomery
+Q4117087	Aen	North Harris
+Q4117087	Aen	NHMCCD
+Q4117087	Aen	N Harris Montgomery
+Q4117087	Aen	Kingwood
+Q4117087	Aen	Tomball
+Q4117087	Aen	Cy-Fair
+Q4117087	Aen	CyFair
+Q4117087	Aen	Montgomery
+Q4117087	Aen	University Park
+Q860527	Aen	UNT
+Q860527	Aen	North Texas
+Q860527	Aen	Mean Grean
+Q7057986	Aen	NTCC
+Q7057986	Aen	NETCC
+Q7075131	Aen	Oblate
+Q7111021	Aen	OLLU
+Q626634	Aen	UT-Pan American
+Q626634	Aen	UT Pan Am
+Q626634	Aen	UTPA
+Q626634	Aen	University of Texas-Pan American
+Q626634	Aen	Pan American
+Q626634	Aen	Pan Am
+Q3306469	Aen	PVAMU
+Q3495253	Aen	St. Edward's University
+Q7414339	Aen	San Jacinto College
+Q1536258	Aen	SMU
+Q3551493	Aen	SU
+Q2344683	Aen	SFASU
+Q1495387	Aen	Texas State
+Q1495387	Aen	Texas State University-San Marcos
+Q1495387	Aen	Southwest Texas State University
+Q1495387	Aen	Southwest Texas State
+Q1495387	Aen	SWT
+Q1495387	Aen	SWTSU
+Q1495387	Aen	Texas State San Marcos
+Q1495387	Aen	TxSt
+Q1495387	Aen	TxState
+Q1495387	Aen	TS
+Q3551554	Aen	Tarleton
+Q3551554	Aen	Texans
+Q3551554	Aen	Texanns
+Q3551554	Aen	TSU
+Q3551554	Aen	Tarleton State
+Q7686664	Aen	Tarrant County College
+Q7698504	Aen	Temple Junior College
+Q2725999	Aen	UT Southwestern
+Q2725999	Aen	UT Southwestern Medical School
+Q2725999	Aen	UT Southwestern Graduate School of Biomedical Sciences
+Q2725999	Aen	UT Southwestern Allied Health Sciences School
+Q2725999	Aen	UTSW Medical School
+Q2725999	Aen	UTSW Graduate School
+Q2725999	Aen	UTSW Allied Health School
+Q2725999	Aen	UTSWMC
+Q2725999	Aen	UTSWMC Medical School
+Q2725999	Aen	UTSWMC Graduate School
+Q2725999	Aen	UTSWMC Allied Health School
+Q2725999	Aen	University of Texas Southwestern Medical School
+Q2725999	Aen	University of Texas Southwestern Graduate School of Biomedical Sciences
+Q2725999	Aen	University of Texas Southwestern Allied Health Sciences School
+Q2725999	Aen	University of Texas Southwestern School of Health Professions
+Q921264	Aen	The University of Texas Medical Branch at Galveston
+Q921264	Aen	UTMB
+Q7708093	Aen	TSTC Waco
+Q7707478	Aen	TAMUK
+Q7707478	Aen	Texas A&I University
+Q49212	Aen	Texas A&M
+Q49212	Aen	TAMU
+Q1230739	Aen	UT Arlington
+Q49213	Aen	UT Austin
+Q49213	Aen	IRRIS Dept
+Q1781394	Aen	UT Dallas
+Q2093110	Aen	UTEP
+Q212528	Aen	UT Tyler
+Q7707564	Aen	TCC
+Q7707564	Aen	TxChiroCollege
+Q2302280	Aen	TCU
+Q7707584	Aen	TC
+Q7895977	Aen	UNT Health Science Center
+Q7895977	Aen	UNTHSC
+Q7895977	Aen	University of North Texas Health Sciences Center at Fort Worth
+Q7895977	Aen	UNT Health Sciences Center
+Q7895977	Aen	Texas College of Osteopathic Medicine
+Q7895977	Aen	TCOM
+Q3301911	Aen	TLU
+Q2495935	Aen	UT Permian Basin
+Q183170	Aen	UTSA
+Q626591	Aen	TSU
+Q1311379	Aen	Trinity
+Q7896431	Aen	UTHealth
+Q7896431	Aen	UTHSC-H
+Q7896431	Aen	The UT Health Science Center at Houston
+Q7922092	Aen	Vernon Regional Junior College
+Q7922092	Aen	VRJC
+Q7922092	Aen	VC
+Q7922092	Aen	Vernon
+Q4966638	Aen	Bridgerland ATC
+Q4966638	Aen	BATC
+Q4966638	Aen	Bridgerland Applied Technology Center
+Q4966638	Aen	Bridgerland Area Vocational Center
+Q332498	Aen	BYU
+Q3243730	Aen	BYUH
+Q3243730	Aen	BYUHC
+Q3243730	Aen	BYU Hawaii
+Q3243730	Aen	BYU Hawaii Campus
+Q3243730	Aen	Brigham Young University Hawaii
+Q3243730	Aen	Brigham Young University Hawaii Campus
+Q3243730	Aen	BYU-H
+Q3243730	Aen	BYU-HC
+Q3243730	Aen	BYU-Hawaii
+Q3243730	Aen	BYU-Hawaii Campus
+Q3243730	Aen	Brigham Young University Hawaii Campus
+Q3243730	Aen	BYU - H
+Q3243730	Aen	BYU - HC
+Q3243730	Aen	BYU - Hawaii
+Q3243730	Aen	BYU - Hawaii Campus
+Q3243730	Aen	Brigham Young University - Hawaii
+Q3243730	Aen	Brigham Young University - Hawaii Campus
+Q3243730	Aen	BYUHawaii
+Q3243730	Aen	BYUHawaii Campus
+Q5241836	Aen	DATC
+Q1231724	Aen	DSU
+Q6457519	Aen	LDS Business College
+Q7079968	Aen	Ogden-Weber Tech College
+Q940919	Aen	UVU
+Q168515	Aen	The U
+Q1787152	Aen	WSU
+Q11288507	Aen	Westminster
+Q11288507	Aen	Westminster College Salt Lake
+Q11288507	Aen	Westminster College Salt Lake City
+Q11288507	Aen	Westminster College Salt Lake City Utah
+Q11288507	Aen	Westminster College of Salt Lake
+Q11288507	Aen	Westminster College of Salt Lake City
+Q11288507	Aen	Westminster College of Salt Lake City Utah
+Q11288507	Aen	Westminster Griffins
+Q11288507	Aen	Griffins
+Q11288507	Aen	Salt Lake Griffins
+Q11288507	Aen	Utah Griffins
+Q817902	Aen	Bennington
+Q5154694	Aen	CCV
+Q7390511	Aen	SIT
+Q5146842	Aen	St. Joe's
+Q5146842	Aen	St. Joseph College
+Q5146842	Aen	CSJ
+Q5146842	Aen	Saint Joseph's
+Q5146842	Aen	College of St. Joseph the Provider
+Q7570604	Aen	SVC
+Q7921788	Aen	Vermont Tech
+Q7921788	Aen	VTC
+Q1048898	Aen	University of Vermont and State Agricultural College
+Q1048898	Aen	UVM
+Q1048898	Aen	UVT
+Q1048898	Aen	Vermont
+Q4828300	Aen	AU
+Q4929703	Aen	BRCC
+Q4929703	Aen	Blue Ridge
+Q4966838	Aen	BC
+Q4966838	Aen	Bridgewater
+Q875637	Aen	William & Mary
+Q3444675	Aen	CNU
+Q5207513	Aen	DSLCC
+Q1278210	Aen	Eastern mennonite univ
+Q1278210	Aen	EMU university
+Q1278210	Aen	EMU college
+Q1278210	Aen	EMU
+Q1278210	Aen	Eastern mennonite
+Q1278210	Aen	Eastern mennonite college
+Q1278210	Aen	EMC
+Q1278210	Aen	Eastern mennonite seminary
+Q1278210	Aen	Eastern menonite
+Q5330447	Aen	ESCC
+Q1411222	Aen	Mason
+Q1797609	Aen	HSC
+Q12060410	Aen	Hollins College
+Q6107066	Aen	Reynolds Community College
+Q258943	Aen	JMU
+Q6708469	Aen	LC
+Q6778997	Aen	MBC
+Q657374	Aen	Mary Washington College
+Q6924935	Aen	MECC
+Q7011240	Aen	NRCC
+Q632506	Aen	Norfolk State
+Q632506	Aen	NSU
+Q1474100	Aen	ODU
+Q14713041	Aen	Patrick Henry
+Q14713041	Aen	PHCC
+Q14713041	Aen	PH
+Q7191541	Aen	PVCC
+Q632465	Aen	RU
+Q7291901	Aen	Randolph-Macon
+Q7291803	Aen	Randolph
+Q7291803	Aen	Randolph-Macon Woman's College
+Q7291803	Aen	Randolph Macon Women's College
+Q7291803	Aen	Randolph-Macon Womens College
+Q7291803	Aen	Randolph Macon Womens College
+Q7291803	Aen	R-MWC
+Q7291803	Aen	RMWC
+Q7291803	Aen	Randolf-Macon Women's College
+Q7291803	Aen	Randolf Macon Women's College
+Q7291803	Aen	Randolf
+Q7291803	Aen	Randolph Lynchburg
+Q7291803	Aen	RC
+Q7291803	Aen	Lynchburg Randolph
+Q7294304	Aen	RCC
+Q7324209	Aen	Richard Bland
+Q1115878	Aen	UR
+Q1115878	Aen	U of Richmond
+Q1115878	Aen	Richmond
+Q1799245	Aen	SU
+Q7570614	Aen	SVU
+Q7571372	Aen	Southwest Virginia
+Q7571372	Aen	Southwest
+Q7571372	Aen	SVCC
+Q7571372	Aen	SWVCC
+Q7571372	Aen	SwVCC
+Q7571372	Aen	SWCC
+Q7792702	Aen	TNCC
+Q7885972	Aen	Union Presbyterian
+Q128111	Aen	UVa-Wise
+Q14713457	Aen	VHCC
+Q65379	Aen	Virginia Tech
+Q2303536	Aen	VCU
+Q213439	Aen	University of Virginia
+Q213439	Aen	UVa
+Q213439	Aen	UVA
+Q785357	Aen	VMI
+Q7934591	Aen	VSU
+Q1814758	Aen	VUU
+Q7934661	Aen	VWC
+Q7934661	Aen	Marlins
+Q7934661	Aen	VA Wesleyan
+Q7934661	Aen	Wesleyan
+Q1785291	Aen	Washington and Lee
+Q1785291	Aen	W&L
+Q1785291	Aen	WLU
+Q8040662	Aen	WCC
+Q4883929	Aen	BC
+Q4884040	Aen	Bellingham Vocational Technical Institute
+Q1054064	Aen	CWU
+Q5123487	Aen	CityU
+Q5135907	Aen	CPTC
+Q5135907	Aen	Clover Pk
+Q5135907	Aen	Clover Park
+Q5135907	Aen	Clover Park Tech
+Q5149615	Aen	CBC
+Q1278253	Aen	EWU
+Q941731	Aen	Evergreen
+Q941731	Aen	TESC
+Q5598352	Aen	GHC
+Q5603127	Aen	GRCC
+Q114960	Aen	Highline
+Q6478429	Aen	LWTech
+Q6693401	Aen	LCC
+Q7056622	Aen	NSCC
+Q7056622	Aen	North Seattle
+Q7056622	Aen	NSC
+Q7089045	Aen	OC
+Q7089045	Aen	Olympic
+Q7089045	Aen	Olympic Community College
+Q7089045	Aen	Olympic Jr College
+Q3439925	Aen	PLU
+Q7568402	Aen	Seattle South
+Q7568402	Aen	South Seattle
+Q7568402	Aen	SSCC
+Q7568402	Aen	South Sea
+Q7568402	Aen	Sea South
+Q7568402	Aen	SSC
+Q7568402	Aen	South CC
+Q7442064	Aen	Seattle Central College
+Q7442064	Aen	Sea Central
+Q7442064	Aen	Central Seattle
+Q7442064	Aen	SCCC
+Q7442064	Aen	SCC
+Q7442064	Aen	Seattle CC
+Q7442064	Aen	Seattle Central CC
+Q2904851	Aen	SPU
+Q615873	Aen	Seattle U
+Q3551688	Aen	Walla Walla College
+Q219563	Aen	UW-Seattle
+Q7982289	Aen	WVC
+Q7982289	Aen	Wenatchee Community College
+Q7982289	Aen	Wenatchee Valley Community College
+Q284777	Aen	Western Washington State College
+Q284777	Aen	Western Washington College of Education
+Q8047101	Aen	YVCC
+Q4713754	Aen	Alderson-Broaddus College
+Q5241825	Aen	Davis and Elkins College
+Q4981651	Aen	Fairmont State
+Q4981651	Aen	Fairmont State College
+Q7986914	Aen	WVSOM
+Q7986919	Aen	WVSU
+Q7986919	Aen	West Virginia State
+Q7986928	Aen	West Virginia University Tech
+Q7986877	Aen	WVNCC
+Q115376	Aen	WVU
+Q6727868	Aen	Madison College
+Q5038617	Aen	Stritch
+Q3298369	Aen	Carthage
+Q5159009	Aen	CUW
+Q5477034	Aen	FVTC
+Q12061082	Aen	LTC
+Q1809286	Aen	Lawrence
+Q14714528	Aen	MBBC
+Q6761997	Aen	Marian University of Fond du Lac
+Q6840815	Aen	MSTC
+Q14714546	Aen	MATC
+Q6861755	Aen	MIAD
+Q1538982	Aen	MSOE
+Q6922044	Aen	Mount Mary College
+Q6922044	Aen	MMU
+Q6922044	Aen	MMC
+Q6922044	Aen	Women
+Q6922044	Aen	Wisconsin
+Q7057734	Aen	North Central Technical College
+Q7057734	Aen	NTC
+Q7057999	Aen	NWTC
+Q15402042	Aen	NBBC
+Q15402042	Aen	Northland Baptist College
+Q15402042	Aen	Northland Bible College
+Q15402042	Aen	Northland
+Q15402042	Aen	Northland Mission
+Q15402042	Aen	Northland International
+Q15402042	Aen	NI
+Q7397267	Aen	SHST
+Q7590859	Aen	SNC
+Q17012055	Aen	SLC
+Q7571381	Aen	Southwest Tech
+Q7937045	Aen	Viterbo
+Q5101687	Aen	CVTC
+Q7975162	Aen	WCTC
+Q7988378	Aen	Western Wisconsin Technical College
+Q8027207	Aen	WITC
+Q8027270	Aen	WSPP
+Q3551771	Aen	UW-Eau Claire
+Q8027229	Aen	WLC
+Q1755318	Aen	UWM
+Q2687782	Aen	UW-Stevens Point
+Q5062043	Aen	CWC
+Q5062043	Aen	Central Wyoming Community College
+Q5062043	Aen	Central
+Q6488658	Aen	LCCC
+Q6488658	Aen	L Triple C
+Q7059996	Aen	Northwest Community College
+Q7494881	Aen	Northern Wyoming Community College District
+Q7494881	Aen	Sheridan College
+Q7494881	Aen	Gillette College
+Q7988454	Aen	WWCC
+Q7988454	Aen	Western
+Q7988454	Aen	Western Wyoming College
+Q1326975	Aen	UW
+Q4744872	Aen	ASCC
+Q5613414	Aen	GCC
+Q1248737	Aen	UOG
+Q4570883	Aen	UCB
+Q5041723	Aen	CAU
+Q1342151	Aen	PUCPR
+Q4903273	Aen	UTC
+Q16964997	Aen	UMET
+Q7432544	Aen	EAP
+Q16997053	Aen	Instituto de Banca
+Q6045490	Aen	Inter Ponce
+Q7896171	Aen	UPRAG
+Q7896172	Aen	UPRA
+Q6156806	Aen	UPRB
+Q7896174	Aen	UPRCA
+Q7896175	Aen	UPRC
+Q7896177	Aen	UPRM
+Q7896177	Aen	RUM
+Q7896177	Aen	Colegio
+Q7896177	Aen	Colegio de Mayagüez
+Q7896177	Aen	UPR-Mayaguez
+Q7896177	Aen	CAAM
+Q7896177	Aen	Recinto de Mayagüez
+Q7896178	Aen	UPR-Ponce
+Q7894340	Aen	UNE
+Q7894348	Aen	Sagrado
+Q5061968	Aen	UCC
+Q7853642	Aen	UT
+Q5146775	Aen	COM-FSM
+Q5146775	Aen	COMFSM
+Q5146775	Aen	COM-FSM National
+Q5146775	Aen	Sharks
+Q5146775	Aen	COM-FSM Palikir
+Q15060585	Aen	PCC
+Q7896780	Aen	UVI
+Q217741	Aen	Purdue-West Lafayette
+Q217741	Aen	Purdue
+Q217741	Aen	PU
+Q217741	Aen	Purdue-WL
+Q4775035	Aen	AULA
+Q4775035	Aen	Antioch
+Q4775035	Aen	Antiok
+Q4775035	Aen	Antioc
+Q4775035	Aen	Antoich
+Q4775042	Aen	AUSB
+Q4775041	Aen	Antioch New England Graduate School
+Q4775038	Aen	Antioch University McGregor
+Q6840587	Aen	Gulf Coast Bible College
+Q6840587	Aen	Mid-America Bible College
+Q6840587	Aen	MACU
+Q4454907	Aen	UTS
+Q5453567	Aen	ETS
+Q5147228	Aen	Collin County Community College District
+Q5147228	Aen	Collin County Community College
+Q5147228	Aen	Colin County Community College District
+Q5147228	Aen	Colin County Community College
+Q5147228	Aen	Collin College
+Q5147228	Aen	Colin College
+Q5147228	Aen	Collin
+Q5147228	Aen	Colin College
+Q5147228	Aen	Collin
+Q5147228	Aen	CCCCD
+Q5147228	Aen	CCCC
+Q5147228	Aen	Quad C
+Q5147228	Aen	Colin
+Q6908193	Aen	MNTC
+Q5603845	Aen	Greene County Vocational-Technical School
+Q6521182	Aen	Tulsa Tech
+Q7587511	Aen	SCC
+Q6506799	Aen	LCB Scottsdale
+Q5163149	Aen	CRAS
+Q7714384	Aen	The New York Restaurant School
+Q6913661	Aen	Morris County School of Technology
+Q15265909	Aen	Penn College
+Q7618891	Aen	SCC
+Q7059946	Aen	NWACC
+Q5876115	Aen	International College
+Q7896347	Aen	University of St Augustine
+Q7101141	Aen	OCOM
+Q17148784	Aen	IBMC
+Q17148784	Aen	I.B.M.C
+Q7898542	Aen	Upper Cape Tech.
+Q14708426	Aen	Gordon Cooper Area Vocational-Technical School District #5
+Q6506801	Aen	LCB Portland
+Q7060000	Aen	NCAD
+Q7896565	Aen	UWB
+Q7896583	Aen	UWT
+Q4874042	Aen	BMCC
+Q7442200	Aen	Seattle Voc
+Q7442200	Aen	SVI
+Q7442200	Aen	Seattle Institute
+Q7442200	Aen	Sea Voc Inst
+Q7442200	Aen	Sea Voc Institute
+Q7442200	Aen	Vocational Seattle
+Q7442200	Aen	Seattle TC
+Q5684264	Aen	Hawaii CC
+Q5684264	Aen	HCC
+Q5600425	Aen	Greater Altoona Career & Technology Center
+Q7974695	Aen	Watkins Institute
+Q5168753	Aen	CMC
+Q7420231	Aen	SCC
+Q11285095	Aen	Soka
+Q11285095	Aen	SUA
+Q5505977	Aen	Frontier Community College
+Q6551158	Aen	Lincoln Trail College
+Q17032342	Aen	Wabash Valley College
+Q7417669	Aen	SBC Dallas
+Q4654066	Aen	ASA Institute
+Q4654066	Aen	ASA
+Q4654066	Aen	ASA - The College for Excellence
+Q17065989	Aen	Pickaway-Ross Career & Technology Center
+Q6475778	Aen	LECOM
+Q5389059	Aen	The Erikson Institute
+Q5389059	Aen	Erikson
+Q5389059	Aen	Erickson Institute
+Q7568637	Aen	South Texas Community College
+Q624686	Aen	CSUMB
+Q7714360	Aen	Ai - Hollywood
+Q5146774	Aen	CMN
+Q7163756	Aen	Pennsylvania Highlands
+Q1525831	Aen	MD Anderson Cancer Center
+Q1525831	Aen	MD Anderson Hospital
+Q1525831	Aen	MD Anderson Hospital and Tumor Institute
+Q1525831	Aen	MDACC
+Q1525831	Aen	UTMDACC
+Q1525831	Aen	Anderson Cancer Center
+Q5146657	Aen	CBT College - Kendall Campus
+Q5038932	Aen	C-TEC of Licking County
+Q6023122	Aen	ICTC
+Q4849468	Aen	BGU
+Q7802240	Aen	TBCC
+Q17083420	Aen	School for Film and Television (The)
+Q5623662	Aen	Rising Spirit Institute of Natural Health
+Q3052113	Aen	Embry Riddle Aeronautical University-Worldwide
+Q7714387	Aen	Art Institute of Phoenix
+Q7714387	Aen	AiPX
+Q7714387	Aen	Phoenix Art Institute
+Q7714387	Aen	The Phoenix Art Institute
+Q7714387	Aen	The Art Institute of Pheonix
+Q7707585	Aen	THSU
+Q6040925	Aen	Fresno Institute of Technology
+Q6040925	Aen	Institute of Technology
+Q6040925	Aen	FIT
+Q6040925	Aen	IT
+Q6040925	Aen	Fresno's Institute of Technology
+Q5253252	Aen	DCAD
+Q14681667	Aen	CNI College
+Q7987876	Aen	WGU
+Q7987876	Aen	Western Governors
+Q5154689	Aen	CCBC
+Q5154689	Aen	Community College of Baltimore County
+Q5154689	Aen	Catonsville Community College
+Q5154689	Aen	Dundalk Community College
+Q5154689	Aen	Essex Community College
+Q7994668	Aen	WETCC
+Q6689304	Aen	LSUHSC-S
+Q6689304	Aen	LSU Health Sciences Center-Shreveport
+Q6689304	Aen	LSU Health Sciences Center - Shreveport
+Q6689304	Aen	LSU Health Sciences Center in Shreveport
+Q6689304	Aen	LSU Health Sciences Center at Shreveport
+Q6689304	Aen	Louisiana State University Health Sciences Center at Shreveport
+Q6689304	Aen	Louisiana State University Health Sciences Center in Shreveport
+Q6682225	Aen	LA Film School
+Q4869472	Aen	BRCC
+Q6054384	Aen	IYRS
+Q4744168	Aen	AIU-South Florida
+Q7442115	Aen	SIOM
+Q6382470	Aen	KGI
+Q6382470	Aen	Keck Graduate Institute of Applied Life Sciences
+Q4791876	Aen	ASUN
+Q4791876	Aen	ASU-Newport
+Q4791876	Aen	ASU Newport
+Q4791876	Aen	Arkansas State University Newport
+Q4791876	Aen	Arkansas State University - Newport
+Q6771619	Aen	Marlboro College
+Q6048039	Aen	SBC Orlando
+Q7762875	Aen	The Seattle School
+Q5329595	Aen	EVIT
+Q7896768	Aen	UoR
+Q7896768	Aen	Colorado School of Professional Psychology (COSPP)
+Q1658675	Aen	NSC
+Q1026905	Aen	CSU Channel Islands
+Q5492094	Aen	Olin College of Engineering
+Q7103071	Aen	LCB Orlando
+Q6483177	Aen	PA College
+Q5431182	Aen	Faith Seminary
+Q6053849	Aen	ITU
+Q1027869	Aen	DIT
+Q1027869	Aen	Digipen
+Q1027869	Aen	Digi Tech
+Q1027869	Aen	Digpen
+Q1027869	Aen	Digitech
+Q6506791	Aen	LCB Atlanta
+Q4899796	Aen	Bexley Hall Seminary
+Q4899796	Aen	Bexley Hall
+Q4899796	Aen	Bexley Institute
+Q5464862	Aen	Folsom Lake
+Q5464862	Aen	FLC
+Q14680748	Aen	Tucson Design College
+Q6925847	Aen	MCTC
+Q6506794	Aen	LCB Las Vegas
+Q1728622	Aen	UC Merced
+Q7368264	Aen	Southern Nevada Educational Services Roseman University of Health Sciences
+Q7368264	Aen	Nevada College of Pharmacy
+Q7368264	Aen	University of Southern Nevada
+Q6039770	Aen	IPS
+Q4742862	Aen	American Academy of Traditional Chinese Medicine
+Q542498	Aen	AMU
+Q6456995	Aen	Los Angeles College of Music
+Q7742282	Aen	SBC Las Vegas
+Q6048046	Aen	SBC Seattle
+Q6506796	Aen	LCB Miami
+Q6506797	Aen	LCB Minneapolis
+Q6506797	Aen	St. Paul
+Q7892258	Aen	USU
+Q5419099	Aen	Ex'pression College
+Q7902331	Aen	Utah College of Dental Hygiene
+Q6051112	Aen	IIRP Graduate School
+Q7896336	Aen	University of South Florida St. Petersburg
+Q7896336	Aen	USF St. Petersburg
+Q7896336	Aen	USF SP
+Q7896336	Aen	University of South Florida - St.Pete
+Q646842	Aen	American Military University
+Q646842	Aen	American Public University
+Q7896781	Aen	UWest
+Q7714389	Aen	AiSLC
+Q7714370	Aen	AICSC
+Q6048049	Aen	SBC San Antonio
+Q7186985	Aen	ASLS
+Q7841394	Aen	TUI
+Q5284804	Aen	DXATC
+Q7896335	Aen	USF Sarasota-Manatee
+Q6417958	Aen	LCB Sacramento
+Q5192952	Aen	Escoffier - Boulder
+Q5463900	Aen	Focus
+Q5463900	Aen	HOPE
+Q5146875	Aen	CWI
+Q7122592	Aen	PNWU
+Q7921694	Aen	VCFA
+Q7714396	Aen	AiVA
+Q7839707	Aen	Tri-County RVTHS
+Q7829362	Aen	TUC

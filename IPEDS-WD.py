@@ -21,29 +21,21 @@ with open('carnegieBasic.csv', 'rb') as csvfile:
         unitid = row['unitid']
         qid = getQ(unitid)
         if qid is not "0":
-            targetData = row['Basic']
-            # if targetData == "Tribal Colleges":
-            #     targetQ = "Q23542851"
-            # elif targetData == "Doctoral Universities: Highest Research Activity":
-            #     targetQ = "Q23334765"
-            # elif targetData == "Doctoral Universities: Higher Research Activity":
-            #     targetQ = "Q23334891"
-            # elif targetData == "Doctoral Universities: Moderate Research Activity":
-            #     targetQ = "Q23334993"
-            # if targetData == "Master's Colleges & Universities: Larger Programs":
-            #     targetQ = "Q23335394"
-            # elif targetData == "Master's Colleges & Universities: Medium Programs":
-            #     targetQ = "Q23335494"
-            # elif targetData == "Master's Colleges & Universities: Small Programs":
-            #     targetQ = "Q23335549"
-            if targetData == "Baccalaureate Colleges: Diverse Fields":
-                targetQ = "Q23336120"
-            elif targetData == "Baccalaureate Colleges: Arts & Sciences Focus":
-                targetQ = "Q23336065"
-            elif targetData == "Baccalaureate/Associate's Colleges: Mixed Baccalaureate/Associate's":
-                targetQ = "Q23336577"
-            elif targetData == "Baccalaureate/Associate's Colleges: Associate's Dominant":
-                targetQ = "Q23336706"
+            targetData = row['Enrollment Profile']
+            if targetData == "Exclusively graduate":
+                targetQ = "Q23623496"
+            elif targetData == "Exclusively undergraduate four-year":
+                targetQ = "Q23623476"
+            elif targetData == "Exclusively undergraduate two-year":
+                targetQ = "Q23623474"
+            elif targetData == "High undergraduate":
+                targetQ = "Q23623483"
+            elif targetData == "Majority graduate":
+                targetQ = "Q23623491"
+            elif targetData == "Majority undergraduate":
+                targetQ = "Q23623487"
+            elif targetData == "Very high undergraduate":
+                targetQ = "Q23623479"                
             else:
                 targetQ = None
             if targetQ is not None:

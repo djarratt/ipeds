@@ -18,8 +18,14 @@ crosswalked = merge(schools, unitid.qid, by.x = 'unitid', by.y = 'unitid')
 #  select(schoolQid = qid, carnegieQid = wikidataQid)
 #cat(paste(basic$schoolQid, 'P2643', basic$carnegieQid, 'S248','Q4223026',sep = '\t'), sep = '\n')
 
-grad.program = merge(crosswalked, 
-                     carnegie.qid %>% filter(carnegieClassificationType == 'Graduate Instructional Program'),
-                     by.x = 'Graduate.Program', by.y = 'carnegieClassification') %>%
+#grad.program = merge(crosswalked, 
+#                     carnegie.qid %>% filter(carnegieClassificationType == 'Graduate Instructional Program'),
+#                     by.x = 'Graduate.Program', by.y = 'carnegieClassification') %>%
+#  select(schoolQid = qid, carnegieQid = wikidataQid)
+#cat(paste(grad.program$schoolQid, 'P2643', grad.program$carnegieQid, 'S248','Q4223026',sep = '\t'), sep = '\n')
+
+size.setting = merge(crosswalked, 
+                     carnegie.qid %>% filter(carnegieClassificationType == 'Size and Setting'),
+                     by.x = 'Size...Setting', by.y = 'carnegieClassification') %>%
   select(schoolQid = qid, carnegieQid = wikidataQid)
-cat(paste(grad.program$schoolQid, 'P2643', grad.program$carnegieQid, 'S248','Q4223026',sep = '\t'), sep = '\n')
+cat(paste(size.setting$schoolQid, 'P2643', size.setting$carnegieQid, 'S248','Q4223026',sep = '\t'), sep = '\n')
